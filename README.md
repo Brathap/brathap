@@ -12,7 +12,7 @@
 
 ---
 
-### ▓▓▓ 🔒 CLASSIFIED BUILDS & PRIVATE SYSTEMS ▓▓▓
+### 🔒 CLASSIFIED BUILDS & PRIVATE SYSTEMS
 
 ```yaml
 [MODULE 01] Edumate Mobile Bypass
