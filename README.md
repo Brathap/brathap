@@ -1,64 +1,134 @@
+<!-- ========================================== -->
+<!-- 🚀 ULTRA-HIGH-END GLOWING HEADER -->
+<!-- ========================================== -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:000000,100:00E5FF&height=120&section=header&text=BRATHAP%20S&fontSize=60&fontColor=ffffff&animation=twinkling&desc=SYSTEMS%20ARCHITECT%20&%20AUTOMATION%20ENGINEER&descSize=16&descAlignY=75" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:000000,100:0D1117&height=200&section=header&text=BRATHAP%20S&fontSize=60&fontColor=ffffff&animation=twinkling&desc=SYSTEMS%20ARCHITECT%20|%20AUTOMATION%20ENGINEER&descSize=20&descAlignY=75" width="100%"/>
 </div>
 
 <br>
 
-### 🔒 CLASSIFIED & PRIVATE BUILDS
-
-| System | Architecture & Focus |
-| :--- | :--- |
-| **Edumate Mobile Bypass** | Reverse Engineering network constraints for native mobile features & downloads. |
-| **Proximity Sync Engine** | Offline-first Bluetooth attendance system with asynchronous Supabase syncing. |
-| **Algorithmic Penmanship** | Custom-font `.ttf` document generator designed to bypass manual constraints. |
-
-<br>
-
-### 🐙 OPEN SOURCE REPOSITORIES
-
-| Project | Description | Tech Stack |
-| :--- | :--- | :--- |
-| **[Jarvis_AI](https://github.com/brathap/Jarvis_AI)** | Voice-controlled AI Assistant, sci-fi UI & automation. | <img src="https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white"> |
-| **[Arch-Hyprland-setup](https://github.com/brathap/Arch-Hyprland-setup)** | Cyber-Shards Rofi, Neon Waybar dots. | <img src="https://img.shields.io/badge/-Shell-4EAA25?style=flat-square&logo=gnu-bash&logoColor=white"> <img src="https://img.shields.io/badge/-Arch-1793D1?style=flat-square&logo=arch-linux&logoColor=white"> |
-| **[skilllens](https://github.com/brathap/skilllens)** | Interactive skill intelligence platform. | <img src="https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white"> |
-| **[autotyper](https://github.com/brathap/autotyper)** | High-speed keystroke replication script. | <img src="https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white"> |
-| **[chat-app](https://github.com/brathap/chat-app)** | Cross-platform communication utility. | <img src="https://img.shields.io/badge/-Dart-0175C2?style=flat-square&logo=dart&logoColor=white"> |
-| **[wild-sight](https://github.com/brathap/wild-sight)** | Computer vision & detection tools. | <img src="https://img.shields.io/badge/-Dart-0175C2?style=flat-square&logo=dart&logoColor=white"> <img src="https://img.shields.io/badge/-HTML-E34F26?style=flat-square&logo=html5&logoColor=white"> |
-
-<br>
-
-### ⚡ TECH ARSENAL
-
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=py,ts,linux,arch,dart,flutter,cpp,docker,git,supabase&perline=10" />
+  <!-- Interactive Subtitle -->
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=4000&pause=1000&color=00E5FF&center=true&vCenter=true&repeat=true&width=550&lines=Building+autonomous+AI;Bypassing+locked+protocols;Architecting+offline-first+systems;Reverse-engineering+custom+workflows" alt="Typing SVG" />
+  </a>
 </div>
 
 <br>
 
-### 💻 COMMUNICATIONS PORTAL
+<!-- ========================================== -->
+<!-- 🔒 CLASSIFIED BUILDS MODULE -->
+<!-- ========================================== -->
+<div align="center">
+  <!-- Section Heading as Image -->
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00e5ff,100:0D1117&height=80&text=🔒%20CLASSIFIED%20&%20PRIVATE%20BUILDS&fontSize=28&fontColor=ffffff" width="100%" />
+</div>
+
+<br>
+
+<table width="100%" style="border-collapse: collapse;">
+  <tr>
+    <td bgcolor="#0D1117" style="padding: 15px; border: 1px solid #00E5FF;">
+      <b>Edumate Mobile Bypass</b><br>
+      <sub>Reverse Engineering restricted network constraints to enforce native mobile functionality and downloads.</sub>
+    </td>
+  </tr>
+  <tr>
+    <td bgcolor="#0D1117" style="padding: 15px; border: 1px solid #00E5FF;">
+      <b>Proximity Sync Engine</b><br>
+      <sub>Offline-first attendance system via Bluetooth scanning with asynchronous Supabase syncing.</sub>
+    </td>
+  </tr>
+  <tr>
+    <td bgcolor="#0D1117" style="padding: 15px; border: 1px solid #00E5FF;">
+      <b>Algorithmic Penmanship</b><br>
+      <sub>Custom-font `.ttf` document generation automation to bypass writing constraints.</sub>
+    </td>
+  </tr>
+</table>
+
+<br>
+
+<!-- ========================================== -->
+<!-- ⚡ TECH ARSENAL MODULE -->
+<!-- ========================================== -->
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00e5ff,100:0D1117&height=80&text=⚡%20TECHNOLOGY%20STACK&fontSize=28&fontColor=ffffff" width="100%" />
+</div>
+
+<br>
+
+<div align="center">
+  <!-- Cohesive Grid Image -->
+  <img src="https://skillicons.dev/icons?i=py,ts,linux,arch,dart,flutter,cpp,docker,git,supabase,mongodb,neovim,vscode&perline=7" width="80%" />
+</div>
+
+<br>
+
+<!-- ========================================== -->
+<!-- 🐙 OPEN SOURCE PROJECT DASHBOARD -->
+<!-- ========================================== -->
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00e5ff,100:0D1117&height=80&text=🐙%20FEATURED%20PROJECTS&fontSize=28&fontColor=ffffff" width="100%" />
+</div>
+
+<br>
+
+<table width="100%" style="border-collapse: collapse;">
+  <tr>
+    <td bgcolor="#0D1117" style="padding: 15px; border: 1px solid #00E5FF;">
+      <b><a href="https://github.com/brathap/Jarvis_AI">Jarvis_AI</a></b><br>
+      <sub>Voice-controlled AI Assistant, sci-fi UI & workflow automation.</sub>
+    </td>
+    <td bgcolor="#0D1117" style="padding: 15px; border: 1px solid #00E5FF;">
+      <b><a href="https://github.com/brathap/Arch-Hyprland-setup">Arch-Hyprland-setup</a></b><br>
+      <sub>Cyber-Shards Rofi, Neon Waybar dotfiles for Arch Linux.</sub>
+    </td>
+  </tr>
+  <tr>
+    <td bgcolor="#0D1117" style="padding: 15px; border: 1px solid #00E5FF;">
+      <b><a href="https://github.com/brathap/skilllens">skilllens</a></b><br>
+      <sub>Interactive skill intelligence and learning platform.</sub>
+    </td>
+    <td bgcolor="#0D1117" style="padding: 15px; border: 1px solid #00E5FF;">
+      <b><a href="https://github.com/brathap/autotyper">autotyper</a></b><br>
+      <sub>High-speed keystroke replication automation script.</sub>
+    </td>
+  </tr>
+</table>
+
+<br>
+
+<!-- ========================================== -->
+<!-- 📊 GITHUB TELEMETRY MODULE -->
+<!-- ========================================== -->
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00e5ff,100:0D1117&height=80&text=📊%20SYSTEM%20TELEMETRY&fontSize=28&fontColor=ffffff" width="100%" />
+</div>
+
+<br>
+
+<div align="center">
+  <!-- Unified Stats Dashboard -->
+  <img src="https://github-readme-stats.vercel.app/api?username=brathap&show_icons=true&theme=tokyonight&bg_color=0D1117&border_color=00E5FF&title_color=00E5FF&text_color=E0E6ED&icon_color=00E5FF" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=brathap&layout=compact&theme=tokyonight&bg_color=0D1117&border_color=00E5FF&title_color=00E5FF&text_color=E0E6ED&hide_progress=true" width="48%" />
+</div>
+
+<br>
+
+<!-- ========================================== -->
+<!-- 💻 COMMUNICATIONS PORTAL -->
+<!-- ========================================== -->
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00e5ff,100:0D1117&height=80&text=💻%20COMMUNICATIONS%20PORTAL&fontSize=28&fontColor=ffffff" width="100%" />
+</div>
+
+<br>
 
 <div align="center">
   <code>guest@brathap:~# ./connect.sh</code><br><br>
-  <a href="https://linkedin.com/in/your-profile"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="mailto:your-email@example.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://linkedin.com/in/your-profile"><img src="https://img.shields.io/badge/LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=00E5FF" /></a>
+  <a href="mailto:your-email@example.com"><img src="https://img.shields.io/badge/Email-0D1117?style=for-the-badge&logo=gmail&logoColor=00E5FF" /></a>
 </div>
 
 <br>
-
-### 📊 GITHUB TELEMETRY
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=brathap&show_icons=true&theme=tokyonight&bg_color=0D1117&border_color=00E5FF&title_color=00E5FF&text_color=E0E6ED&icon_color=00E5FF&hide_border=false" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=brathap&layout=compact&theme=tokyonight&bg_color=0D1117&border_color=00E5FF&title_color=00E5FF&text_color=E0E6ED&hide_border=false" width="48%" />
-</div>
-
-<br>
-
-### 🐍 CONTRIBUTION ACTIVITY
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/brathap/brathap/output/github-contribution-grid-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/brathap/brathap/output/github-contribution-grid-snake.svg">
-    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/brathap/brathap/output/github-contribution-grid-snake-dark.svg">
-  </picture>
-</div>
