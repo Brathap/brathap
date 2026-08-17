@@ -1,38 +1,38 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00e5ff,100:03071e&height=250&section=header&text=BRATHAP%20S&fontSize=70&fontColor=ffffff&animation=fadeIn&desc=SYSTEMS%20ARCHITECT%20/%20AUTOMATION%20ENGINEER&descSize=20&descAlignY=75" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:00e5ff&height=250&section=header&text=BRATHAP%20S&fontSize=60&fontColor=ffffff&animation=twinkling&desc=SYSTEMS%20ARCHITECT%20%E2%80%A2%20AUTOMATION%20ENGINEER&descSize=20&descAlignY=75" width="100%"/>
 </div>
 
 <div align="center">
   <a href="https://github.com/Brathap">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=4000&pause=1000&color=00E5FF&center=true&vCenter=true&width=800&lines=Building+autonomous+AI+agents;Bypassing+locked+network+protocols;Architecting+offline-first+hardware+systems;Crafting+custom+Arch+Linux+environments" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=1000&color=00E5FF&center=true&vCenter=true&repeat=true&width=800&lines=Reverse-Engineering+Network+Protocols;Building+Autonomous+AI+Agents+(Jarvis);Architecting+Offline-First+Hardware+Systems;Crafting+Custom+Arch+Linux+Environments" alt="Typing Animation" />
   </a>
 </div>
 
 ---
-
-### 🏆 ACHIEVEMENT TELEMETRY
 
 <div align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=brathap&theme=tokyonight&no-frame=true&no-bg=true&margin-w=15" alt="Trophies" />
-  </a>
+  <img src="https://skillicons.dev/icons?i=py,ts,dart,flutter,c,cpp,linux,arch,bash,git,docker,supabase,firebase,neovim,vscode&perline=15" alt="Tech Stack Grid" />
 </div>
 
 ---
 
-### 🔒 CLASSIFIED BUILDS (LOCAL OPERATIONS)
+### ▓▓▓ 🔒 CLASSIFIED OPERATIONS (LOCAL BUILDS) ▓▓▓
 
-```shell
-> ./execute_private_builds.sh
+```yaml
+# SYSTEM_OVERRIDE_INITIATED...
+# DISPLAYING_RESTRICTED_MODULES:
 
-[MODULE: Edumate Mobile Bypass] 
-- Status: OPERATIONAL
-- Spec: Reverse-engineered network constraints to enforce native mobile functionality and downloads.
+[MODULE_1]: "Edumate Mobile Bypass"
+  Status: "OPERATIONAL"
+  Architecture: "Reverse-engineered restricted mobile access protocols"
+  Feature: "Injected custom download features to force mobile functionality"
 
-[MODULE: Proximity Sync Engine]
-- Status: DEPLOYED
-- Spec: Offline-first attendance engine using raw Bluetooth scanning. Asynchronous sync to Supabase.
+[MODULE_2]: "Proximity Sync Engine"
+  Status: "DEPLOYED"
+  Architecture: "Offline-first attendance engine using raw Bluetooth scanning"
+  Feature: "Asynchronous sync to Supabase upon network detection"
 
-[MODULE: Algorithmic Penmanship]
-- Status: ACTIVE
-- Spec: Custom-trained .ttf document generator designed to bypass manual writing constraints.
+[MODULE_3]: "Ghost Writer (Algorithmic Penmanship)"
+  Status: "ACTIVE"
+  Architecture: "Algorithmic assignment automation via machine learning"
+  Feature: "Generates digitally handwritten documents using custom .ttf fonts"
