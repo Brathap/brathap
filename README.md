@@ -3,9 +3,8 @@
 </div>
 
 <div align="center">
-  <a href="https://github.com/Brathap">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=4000&pause=1000&color=00E5FF&center=true&vCenter=true&width=800&lines=Building+autonomous+AI+agents+(Jarvis);Architecting+offline-first+hardware+systems;Bypassing+restricted+network+protocols;Crafting+custom+Arch+Linux+environments" alt="Typing SVG" />
-  </a>
+  <h3 style="color: #00E5FF;">Building autonomous AI agents | Bypassing restricted protocols</h3>
+  <p style="color: #E0E6ED;">Architecting offline-first hardware systems & Crafting custom Arch Linux environments</p>
 </div>
 
 <!-- Animated Glowing Line -->
@@ -29,7 +28,6 @@
 
 <h3 align="center">🔓 CLASSIFIED BUILDS (INTERACTIVE)</h3>
 
-<!-- Interactive Dropdown Menus -->
 <details>
   <summary><b style="font-size: 16px; color: #00E5FF; cursor: pointer;">► [MODULE 01] Edumate Mobile Bypass (Click to Expand)</b></summary>
   <br>
