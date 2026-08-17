@@ -32,19 +32,19 @@
 
 <h3 align="center">🚀 FLAGSHIP OPEN SOURCE</h3>
 <div align="center">
-  <a href="https://github.com/brathap/Jarvis_AI"><img src="https://github-readme-stats.vercel.app/api/pin/?username=brathap&repo=Jarvis_AI&theme=tokyonight&bg_color=0D1117&border_color=00E5FF&title_color=00E5FF&icon_color=00E5FF&text_color=E0E6ED" width="48%"></a>
-  <a href="https://github.com/brathap/Arch-Hyprland-setup"><img src="https://github-readme-stats.vercel.app/api/pin/?username=brathap&repo=Arch-Hyprland-setup&theme=tokyonight&bg_color=0D1117&border_color=00E5FF&title_color=00E5FF&icon_color=00E5FF&text_color=E0E6ED" width="48%"></a>
+  <a href="https://github.com/brathap/Jarvis_AI"><img src="https://github-readme-stats.vercel.app/api/pin/?username=brathap&repo=Jarvis_AI&theme=tokyonight&bg_color=0D1117&border_color=00E5FF&title_color=00E5FF&icon_color=00E5FF&text_color=E0E6ED&v=1" width="48%"></a>
+  <a href="https://github.com/brathap/Arch-Hyprland-setup"><img src="https://github-readme-stats.vercel.app/api/pin/?username=brathap&repo=Arch-Hyprland-setup&theme=tokyonight&bg_color=0D1117&border_color=00E5FF&title_color=00E5FF&icon_color=00E5FF&text_color=E0E6ED&v=1" width="48%"></a>
   <br>
-  <a href="https://github.com/brathap/skilllens"><img src="https://github-readme-stats.vercel.app/api/pin/?username=brathap&repo=skilllens&theme=tokyonight&bg_color=0D1117&border_color=00E5FF&title_color=00E5FF&icon_color=00E5FF&text_color=E0E6ED" width="48%"></a>
-  <a href="https://github.com/brathap/autotyper"><img src="https://github-readme-stats.vercel.app/api/pin/?username=brathap&repo=autotyper&theme=tokyonight&bg_color=0D1117&border_color=00E5FF&title_color=00E5FF&icon_color=00E5FF&text_color=E0E6ED" width="48%"></a>
+  <a href="https://github.com/brathap/skilllens"><img src="https://github-readme-stats.vercel.app/api/pin/?username=brathap&repo=skilllens&theme=tokyonight&bg_color=0D1117&border_color=00E5FF&title_color=00E5FF&icon_color=00E5FF&text_color=E0E6ED&v=1" width="48%"></a>
+  <a href="https://github.com/brathap/autotyper"><img src="https://github-readme-stats.vercel.app/api/pin/?username=brathap&repo=autotyper&theme=tokyonight&bg_color=0D1117&border_color=00E5FF&title_color=00E5FF&icon_color=00E5FF&text_color=E0E6ED&v=1" width="48%"></a>
 </div>
 
 <br>
 
 <h3 align="center">📊 SYSTEM TELEMETRY</h3>
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=brathap&show_icons=true&theme=tokyonight&bg_color=0D1117&border_color=00E5FF&title_color=00E5FF&text_color=E0E6ED" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=brathap&theme=tokyonight&background=0D1117&border=00E5FF&fire=00E5FF&ring=00E5FF&stroke=00E5FF&currStreakLabel=00E5FF" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=brathap&show_icons=true&theme=tokyonight&bg_color=0D1117&border_color=00E5FF&title_color=00E5FF&text_color=E0E6ED&v=1" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=brathap&theme=tokyonight&background=0D1117&border=00E5FF&fire=00E5FF&ring=00E5FF&stroke=00E5FF&currStreakLabel=00E5FF&v=1" width="48%" />
 </div>
 
 <br>
