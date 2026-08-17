@@ -8,6 +8,16 @@
   </a>
 </div>
 
+<!-- Animated Glowing Line -->
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+</div>
+
+<h3 align="center">👁️ LIVE SYSTEM TELEMETRY</h3>
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=brathap&label=SYSTEM+PINGS+(VIEWS)&color=00E5FF&style=for-the-badge" alt="Profile Views" />
+</div>
+
 <br>
 
 <h3 align="center">⚙️ THE ARSENAL</h3>
@@ -17,66 +27,13 @@
 
 <br>
 
-<h3 align="center">🔒 CLASSIFIED BUILDS (LOCAL DEPLOYMENTS)</h3>
+<h3 align="center">🔓 CLASSIFIED BUILDS (INTERACTIVE)</h3>
 
-> **[MODULE 01] Edumate Mobile Bypass**
-> *Reverse-engineered network constraints to enforce native mobile functionality and unrestricted downloads.*
-> 
-> **[MODULE 02] Proximity Sync Engine**
-> *Offline-first attendance via raw Bluetooth scanning, featuring asynchronous Supabase syncing.*
-> 
-> **[MODULE 03] Algorithmic Penmanship**
-> *Custom `.ttf` document generation automation designed to bypass manual writing constraints.*
-
-<br>
-
-<h3 align="center">🚀 FLAGSHIP OPEN SOURCE</h3>
-
-<!-- UNBREAKABLE HTML UI CARDS -->
-<table width="100%">
-  <tr>
-    <td width="50%" bgcolor="#0D1117">
-      <h3 align="left">🤖 <a href="https://github.com/brathap/Jarvis_AI" style="color: #00E5FF;">Jarvis_AI</a></h3>
-      <p align="left" style="color: #E0E6ED;">Voice-controlled AI Assistant with a sci-fi UI. Features real-time AI conversation and deep browser automation.</p>
-      <p align="left">
-        <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-      </p>
-    </td>
-    <td width="50%" bgcolor="#0D1117">
-      <h3 align="left">⚡ <a href="https://github.com/brathap/Arch-Hyprland-setup" style="color: #00E5FF;">Arch-Hyprland-setup</a></h3>
-      <p align="left" style="color: #E0E6ED;">A futuristic Arch Linux setup featuring a custom "Cyber-Shards" Rofi theme and glowing neon Waybar styles.</p>
-      <p align="left">
-        <img src="https://img.shields.io/badge/Shell-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white" />
-        <img src="https://img.shields.io/badge/Arch-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white" />
-      </p>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" bgcolor="#0D1117">
-      <h3 align="left">🎯 <a href="https://github.com/brathap/skilllens" style="color: #00E5FF;">skilllens</a></h3>
-      <p align="left" style="color: #E0E6ED;">Interactive skill intelligence and learning platform built for high-performance processing.</p>
-      <p align="left">
-        <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
-      </p>
-    </td>
-    <td width="50%" bgcolor="#0D1117">
-      <h3 align="left">⌨️ <a href="https://github.com/brathap/autotyper" style="color: #00E5FF;">autotyper</a></h3>
-      <p align="left" style="color: #E0E6ED;">High-speed automation scripting software engineered for perfect keystroke replication.</p>
-      <p align="left">
-        <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-      </p>
-    </td>
-  </tr>
-</table>
-
-<br>
-
-<h3 align="center">💻 COMMUNICATIONS PORTAL</h3>
-
-<div align="center">
-  <code>guest@brathap:~# ./connect.sh</code><br><br>
-  <a href="mailto:your-email@example.com"><img src="https://img.shields.io/badge/Connect_via_Email-0D1117?style=for-the-badge&logo=gmail&logoColor=00E5FF&border=00E5FF" /></a>
-  <a href="https://linkedin.com/in/your-profile"><img src="https://img.shields.io/badge/Connect_via_LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=00E5FF&border=00E5FF" /></a>
-  <br><br>
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00e5ff,100:000000&height=100&section=footer" width="100%"/>
-</div>
+<!-- Interactive Dropdown Menus -->
+<details>
+  <summary><b style="font-size: 16px; color: #00E5FF; cursor: pointer;">► [MODULE 01] Edumate Mobile Bypass (Click to Expand)</b></summary>
+  <br>
+  
+```diff
++ STATUS: OPERATIONAL
+! SPEC: Reverse-engineered network constraints to enforce native mobile functionality and unrestricted downloads.
