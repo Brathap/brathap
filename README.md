@@ -31,25 +31,50 @@
 <br>
 
 <h3 align="center">🚀 FLAGSHIP OPEN SOURCE</h3>
-<div align="center">
-  <a href="https://github.com/brathap/Jarvis_AI"><img src="https://github-readme-stats.vercel.app/api/pin/?username=brathap&repo=Jarvis_AI&theme=tokyonight&bg_color=0D1117&border_color=00E5FF&title_color=00E5FF&icon_color=00E5FF&text_color=E0E6ED&v=1" width="48%"></a>
-  <a href="https://github.com/brathap/Arch-Hyprland-setup"><img src="https://github-readme-stats.vercel.app/api/pin/?username=brathap&repo=Arch-Hyprland-setup&theme=tokyonight&bg_color=0D1117&border_color=00E5FF&title_color=00E5FF&icon_color=00E5FF&text_color=E0E6ED&v=1" width="48%"></a>
-  <br>
-  <a href="https://github.com/brathap/skilllens"><img src="https://github-readme-stats.vercel.app/api/pin/?username=brathap&repo=skilllens&theme=tokyonight&bg_color=0D1117&border_color=00E5FF&title_color=00E5FF&icon_color=00E5FF&text_color=E0E6ED&v=1" width="48%"></a>
-  <a href="https://github.com/brathap/autotyper"><img src="https://github-readme-stats.vercel.app/api/pin/?username=brathap&repo=autotyper&theme=tokyonight&bg_color=0D1117&border_color=00E5FF&title_color=00E5FF&icon_color=00E5FF&text_color=E0E6ED&v=1" width="48%"></a>
-</div>
+
+<!-- UNBREAKABLE HTML UI CARDS -->
+<table width="100%">
+  <tr>
+    <td width="50%" bgcolor="#0D1117">
+      <h3 align="left">🤖 <a href="https://github.com/brathap/Jarvis_AI" style="color: #00E5FF;">Jarvis_AI</a></h3>
+      <p align="left" style="color: #E0E6ED;">Voice-controlled AI Assistant with a sci-fi UI. Features real-time AI conversation and deep browser automation.</p>
+      <p align="left">
+        <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+      </p>
+    </td>
+    <td width="50%" bgcolor="#0D1117">
+      <h3 align="left">⚡ <a href="https://github.com/brathap/Arch-Hyprland-setup" style="color: #00E5FF;">Arch-Hyprland-setup</a></h3>
+      <p align="left" style="color: #E0E6ED;">A futuristic Arch Linux setup featuring a custom "Cyber-Shards" Rofi theme and glowing neon Waybar styles.</p>
+      <p align="left">
+        <img src="https://img.shields.io/badge/Shell-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white" />
+        <img src="https://img.shields.io/badge/Arch-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white" />
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" bgcolor="#0D1117">
+      <h3 align="left">🎯 <a href="https://github.com/brathap/skilllens" style="color: #00E5FF;">skilllens</a></h3>
+      <p align="left" style="color: #E0E6ED;">Interactive skill intelligence and learning platform built for high-performance processing.</p>
+      <p align="left">
+        <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
+      </p>
+    </td>
+    <td width="50%" bgcolor="#0D1117">
+      <h3 align="left">⌨️ <a href="https://github.com/brathap/autotyper" style="color: #00E5FF;">autotyper</a></h3>
+      <p align="left" style="color: #E0E6ED;">High-speed automation scripting software engineered for perfect keystroke replication.</p>
+      <p align="left">
+        <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+      </p>
+    </td>
+  </tr>
+</table>
 
 <br>
 
-<h3 align="center">📊 SYSTEM TELEMETRY</h3>
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=brathap&show_icons=true&theme=tokyonight&bg_color=0D1117&border_color=00E5FF&title_color=00E5FF&text_color=E0E6ED&v=1" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=brathap&theme=tokyonight&background=0D1117&border=00E5FF&fire=00E5FF&ring=00E5FF&stroke=00E5FF&currStreakLabel=00E5FF&v=1" width="48%" />
-</div>
-
-<br>
+<h3 align="center">💻 COMMUNICATIONS PORTAL</h3>
 
 <div align="center">
+  <code>guest@brathap:~# ./connect.sh</code><br><br>
   <a href="mailto:your-email@example.com"><img src="https://img.shields.io/badge/Connect_via_Email-0D1117?style=for-the-badge&logo=gmail&logoColor=00E5FF&border=00E5FF" /></a>
   <a href="https://linkedin.com/in/your-profile"><img src="https://img.shields.io/badge/Connect_via_LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=00E5FF&border=00E5FF" /></a>
   <br><br>
