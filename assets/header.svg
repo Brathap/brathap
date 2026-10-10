@@ -21,15 +21,9 @@
       <stop offset="100%" stop-color="#7B001F" />
     </linearGradient>
 
-    <!-- Neon Glow Filter -->
-    <filter id="intense-glow" x="-20%" y="-20%" width="140%" height="140%">
-      <feGaussianBlur stdDeviation="6" result="blur1" />
-      <feGaussianBlur stdDeviation="2" result="blur2" />
-      <feMerge>
-        <feMergeNode in="blur1" />
-        <feMergeNode in="blur2" />
-        <feMergeNode in="SourceGraphic" />
-      </feMerge>
+    <!-- Crisp Subtle Glow (Clear, Non-blurry text) -->
+    <filter id="crisp-glow" x="-10%" y="-10%" width="120%" height="120%">
+      <feDropShadow dx="0" dy="0" stdDeviation="3" flood-color="#FF0044" flood-opacity="0.6" />
     </filter>
 
     <filter id="subtle-glow" x="-10%" y="-10%" width="120%" height="120%">
@@ -39,14 +33,12 @@
   </defs>
 
   <style>
-    .title-white { font-family: 'Segoe UI', system-ui, -apple-system, sans-serif; font-weight: 950; font-size: 56px; fill: #FFFFFF; letter-spacing: 5px; }
+    .title-crisp { font-family: 'Segoe UI', system-ui, -apple-system, sans-serif; font-weight: 950; font-size: 54px; fill: #FFFFFF; letter-spacing: 4px; }
     .spidey-sub { font-family: 'JetBrains Mono', 'Fira Code', monospace; font-weight: 700; font-size: 14px; fill: #FF0044; letter-spacing: 3px; }
     .strand-line { stroke: #FF0044; stroke-opacity: 0.22; stroke-width: 1; }
     .cyan-strand { stroke: #00F0FF; stroke-opacity: 0.22; stroke-width: 1; }
     .ring-poly { stroke: #FF0044; stroke-opacity: 0.25; stroke-width: 1.2; fill: none; }
     .cyan-ring { stroke: #00F0FF; stroke-opacity: 0.22; stroke-width: 1.2; fill: none; }
-    .pulse-glow { animation: pulse 3s infinite alternate ease-in-out; }
-    @keyframes pulse { 0% { opacity: 0.3; } 100% { opacity: 0.9; } }
   </style>
 
   <!-- Deep Cosmic Canvas Base -->
@@ -84,7 +76,7 @@
   </g>
 
   <!-- Top Cyber Web-Shooter Neon Rail -->
-  <path d="M 30 22 L 300 22 L 325 38 L 870 38" stroke="url(#neon-glitch)" stroke-width="2.2" fill="none" filter="url(#intense-glow)" />
+  <path d="M 30 22 L 300 22 L 325 38 L 870 38" stroke="url(#neon-glitch)" stroke-width="2.2" fill="none" filter="url(#subtle-glow)" />
   <circle cx="30" cy="22" r="4.5" fill="#FF0044" />
   <circle cx="870" cy="38" r="4.5" fill="#00F0FF" />
 
@@ -93,15 +85,13 @@
   <text x="52" y="69" font-family="'JetBrains Mono', monospace" font-size="11" font-weight="800" fill="#FF0044">EARTH-616 // ARCH-OS</text>
 
   <!-- Pulsating Spider-Sense Core Indicator -->
-  <circle cx="230" cy="64" r="5.5" fill="#00F0FF" filter="url(#intense-glow)">
+  <circle cx="230" cy="64" r="5.5" fill="#00F0FF" filter="url(#subtle-glow)">
     <animate attributeName="opacity" values="1;0.2;1" dur="1.2s" repeatCount="indefinite" />
   </circle>
   <text x="246" y="69" font-family="'JetBrains Mono', monospace" font-size="11" font-weight="700" fill="#00F0FF">SPIDER-SENSE // ONLINE</text>
 
-  <!-- Glitch Red & Cyan Layer Behind Name -->
-  <text x="44" y="142" class="title-white" fill="#FF0044" fill-opacity="0.8" filter="url(#intense-glow)">BRATHAP S</text>
-  <text x="38" y="139" class="title-white" fill="#00F0FF" fill-opacity="0.5">BRATHAP S</text>
-  <text x="40" y="140" class="title-white">BRATHAP S</text>
+  <!-- CRYSTAL-CLEAR ULTRA SHARP NAME (Zero Over-Glow Blur) -->
+  <text x="40" y="140" class="title-crisp" filter="url(#crisp-glow)">BRATHAP S</text>
 
   <!-- Dynamic Mission Statement -->
   <text x="42" y="176" class="spidey-sub">🕷️ FRIENDLY NEIGHBORHOOD ARCHITECT  •  AI &amp; AUTONOMY</text>
@@ -130,7 +120,7 @@
   </g>
 
   <!-- Detailed Neon Miles Morales / Spider-Man Emblem -->
-  <g transform="translate(730, 150) scale(1.3)" filter="url(#intense-glow)">
+  <g transform="translate(730, 150) scale(1.3)" filter="url(#subtle-glow)">
     <!-- Spider Body Core -->
     <ellipse cx="0" cy="0" rx="9" ry="17" fill="url(#spider-glow-grad)" />
     <ellipse cx="0" cy="-14" rx="6" ry="6.5" fill="url(#spider-glow-grad)" />
