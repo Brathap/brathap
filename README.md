@@ -13,21 +13,21 @@
 <br><br>
 
 <!-- SPIDER-VERSE THEMED STATUS BADGES -->
-<a href="https://github.com/Brathap">
+<p align="center">
   <img src="https://img.shields.io/badge/SPIDER--SENSE-ACTIVE-FF0044?style=for-the-badge&logo=target&logoColor=white&labelColor=17040C" alt="Spider Sense Active" />
   <img src="https://img.shields.io/badge/ARCH%20LINUX-HYPRLAND-00F0FF?style=for-the-badge&logo=archlinux&logoColor=00F0FF&labelColor=050B14" alt="Arch Hyprland" />
   <img src="https://img.shields.io/badge/DIMENSION-EARTH--616-9D00FF?style=for-the-badge&logo=planetscale&logoColor=white&labelColor=0D051A" alt="Dimension" />
   <img src="https://img.shields.io/badge/EDITOR-NEOVIM-00FFA3?style=for-the-badge&logo=neovim&logoColor=00FFA3&labelColor=05140D" alt="Neovim" />
-</a>
+</p>
 
 <br><br>
 
 <!-- TELEMETRY COUNTERS -->
-<a href="https://github.com/Brathap">
-  <img src="https://komarev.com/ghpvc/?username=Brathap&style=for-the-badge&color=FF0044&label=WEB+VISITORS" alt="Web Visitors" />
+<p align="center">
+  <img src="https://api.visitorbadge.io/api/visitors?pageId=Brathap.profile&label=WEB%20VISITORS&labelColor=%2317040C&countColor=%23FF0044&style=for-the-badge" alt="Web Visitors" />
   <img src="https://img.shields.io/github/followers/Brathap?style=for-the-badge&color=00F0FF&labelColor=050B14&label=ALLIED+NODES" alt="Allied Nodes" />
   <img src="https://img.shields.io/github/stars/Brathap?style=for-the-badge&color=FF0044&labelColor=17040C&label=STARS+HARVESTED" alt="Stars Harvested" />
-</a>
+</p>
 
 </div>
 
@@ -35,16 +35,7 @@
 
 <div align="center">
 
-```text
- 🕸️════════════════════════════════════════════════════════════════════════════🕸️
-   ██████╗ ██████╗  █████╗ ████████╗██╗  ██╗ █████╗ ██████╗   SUIT: SYMBIOTE-V3
-   ██╔══██╗██╔══██╗██╔══██╗╚══██╔══╝██║  ██║██╔══██╗██╔══██╗  CORE: HYPRLAND-WAY
-   ██████╔╝██████╔╝███████║   ██║   ███████║███████║██████╔╝  LINK: BASH // NEOVIM
-   ██╔══██╗██╔══██╗██╔══██║   ██║   ██╔══██║██╔══██║██╔═══╝   STATUS: OSCILLATING
-   ██████╔╝██║  ██║██║  ██║   ██║   ██║  ██║██║  ██║██║       SIGNAL: 100% NEON
-   ╚═════╝ ╚═╝  ╚═╝╚═╝  ╚═╝   ╚═╝   ╚═╝  ╚═╝╚═╝  ╚═╝╚═╝       LOC: EARTH-616
- 🕸️════════════════════════════════════════════════════════════════════════════🕸️
-```
+<img src="./assets/telemetry_terminal.svg" width="100%" alt="Suit Telemetry Terminal" />
 
 </div>
 

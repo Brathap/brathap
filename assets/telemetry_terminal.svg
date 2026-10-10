@@ -1,0 +1,39 @@
+<svg width="860" height="150" viewBox="0 0 860 150" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <filter id="box-glow" x="-10%" y="-10%" width="120%" height="120%">
+      <feDropShadow dx="0" dy="0" stdDeviation="4" flood-color="#FF0044" flood-opacity="0.3" />
+    </filter>
+  </defs>
+
+  <!-- Container Box -->
+  <rect x="2" y="2" width="856" height="146" rx="10" fill="#07020B" stroke="#FF0044" stroke-width="1.5" stroke-opacity="0.6" filter="url(#box-glow)" />
+
+  <!-- Corner spider web accents -->
+  <path d="M 6 25 L 25 6 M 6 16 L 16 6 M 6 35 L 35 6" stroke="#00F0FF" stroke-width="1" stroke-opacity="0.5" />
+  <path d="M 854 25 L 835 6 M 854 16 L 844 6 M 854 35 L 825 6" stroke="#00F0FF" stroke-width="1" stroke-opacity="0.5" />
+  <path d="M 6 125 L 25 144 M 6 134 L 16 144 M 6 115 L 35 144" stroke="#00F0FF" stroke-width="1" stroke-opacity="0.5" />
+  <path d="M 854 125 L 835 144 M 854 134 L 844 144 M 854 115 L 825 144" stroke="#00F0FF" stroke-width="1" stroke-opacity="0.5" />
+
+  <!-- BRATHAP ASCII ART in Crisp Fixed Monospace -->
+  <g font-family="'JetBrains Mono', 'Fira Code', 'DejaVu Sans Mono', monospace" font-size="13" font-weight="900" fill="#00F0FF" xml:space="preserve">
+    <text x="35" y="38">██████╗ ██████╗  █████╗ ████████╗██╗  ██╗ █████╗ ██████╗</text>
+    <text x="35" y="55">██╔══██╗██╔══██╗██╔══██╗╚══██╔══╝██║  ██║██╔══██╗██╔══██╗</text>
+    <text x="35" y="72">██████╔╝██████╔╝███████║   ██║   ███████║███████║██████╔╝</text>
+    <text x="35" y="89">██╔══██╗██╔══██╗██╔══██║   ██║   ██╔══██║██╔══██║██╔═══╝</text>
+    <text x="35" y="106">██████╔╝██║  ██║██║  ██║   ██║   ██║  ██║██║  ██║██║</text>
+    <text x="35" y="123">╚═════╝ ╚═╝  ╚═╝╚═╝  ╚═╝   ╚═╝   ╚═╝  ╚═╝╚═╝  ╚═╝╚═╝</text>
+  </g>
+
+  <!-- Vertical Divider Line -->
+  <line x1="610" y1="20" x2="610" y2="130" stroke="#FF0044" stroke-width="1.2" stroke-opacity="0.4" stroke-dasharray="4 4" />
+
+  <!-- Telemetry Metadata Column -->
+  <g font-family="'JetBrains Mono', 'Fira Code', monospace" font-size="11" font-weight="700" fill="#A9B1D6">
+    <text x="630" y="38" fill="#FF0044">SUIT:<tspan fill="#FFFFFF" font-weight="600"> SYMBIOTE-V3</tspan></text>
+    <text x="630" y="56" fill="#00F0FF">CORE:<tspan fill="#FFFFFF" font-weight="600"> HYPRLAND-WAY</tspan></text>
+    <text x="630" y="74" fill="#00FFA3">LINK:<tspan fill="#FFFFFF" font-weight="600"> BASH // NEOVIM</tspan></text>
+    <text x="630" y="92" fill="#9D00FF">STATUS:<tspan fill="#FFFFFF" font-weight="600"> OSCILLATING</tspan></text>
+    <text x="630" y="110" fill="#FF3366">SIGNAL:<tspan fill="#FFFFFF" font-weight="600"> 100% NEON</tspan></text>
+    <text x="630" y="128" fill="#00F0FF">LOC:<tspan fill="#FFFFFF" font-weight="600"> EARTH-616</tspan></text>
+  </g>
+</svg>
