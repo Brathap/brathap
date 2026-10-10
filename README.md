@@ -24,9 +24,10 @@
 
 <!-- TELEMETRY COUNTERS -->
 <p align="center">
-  <img src="https://api.visitorbadge.io/api/visitors?pageId=Brathap.profile&label=WEB%20VISITORS&labelColor=%2317040C&countColor=%23FF0044&style=for-the-badge" alt="Web Visitors" />
+  <img src="https://img.shields.io/badge/MISSION-SYSTEMS%20%26%20AI-FF0044?style=for-the-badge&logo=target&logoColor=white&labelColor=17040C" alt="Mission" />
   <img src="https://img.shields.io/github/followers/Brathap?style=for-the-badge&color=00F0FF&labelColor=050B14&label=ALLIED+NODES" alt="Allied Nodes" />
   <img src="https://img.shields.io/github/stars/Brathap?style=for-the-badge&color=FF0044&labelColor=17040C&label=STARS+HARVESTED" alt="Stars Harvested" />
+  <img src="https://img.shields.io/badge/STATUS-OPEN%20FOR%20COLLAB-00FFA3?style=for-the-badge&logo=statuspage&logoColor=white&labelColor=05140D" alt="Status" />
 </p>
 
 </div>
