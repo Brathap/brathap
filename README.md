@@ -2,7 +2,7 @@
 
 <!-- THREE.JS HOLOGRAPHIC SPIDER-MAN HERO CENTERPIECE -->
 <a href="https://github.com/Brathap">
-  <img src="./assets/spiderman_hero.svg" width="220" height="220" alt="Holographic Spider-Man Avatar" />
+  <img src="./assets/spiderman_photo_hero.svg" width="220" height="220" alt="Holographic Spider-Man Avatar" />
 </a>
 
 <br><br>
