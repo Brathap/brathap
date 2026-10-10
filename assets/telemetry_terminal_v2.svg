@@ -1,0 +1,33 @@
+<svg width="880" height="150" viewBox="0 0 880 150" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <!-- Crisp drop shadow, no blurry color bleed -->
+    <filter id="box-glow" x="-10%" y="-10%" width="120%" height="120%">
+      <feDropShadow dx="0" dy="0" stdDeviation="3" flood-color="#FF0044" flood-opacity="0.4" />
+    </filter>
+  </defs>
+
+  <!-- Container Box -->
+  <rect x="2" y="2" width="876" height="146" rx="10" fill="#07020B" stroke="#FF0044" stroke-width="1.6" stroke-opacity="0.8" filter="url(#box-glow)" />
+
+  <!-- Corner spider web accents -->
+  <path d="M 6 25 L 25 6 M 6 16 L 16 6 M 6 35 L 35 6" stroke="#00F0FF" stroke-width="1.2" stroke-opacity="0.5" />
+  <path d="M 874 25 L 855 6 M 874 16 L 864 6 M 874 35 L 845 6" stroke="#00F0FF" stroke-width="1.2" stroke-opacity="0.5" />
+  <path d="M 6 125 L 25 144 M 6 134 L 16 144 M 6 115 L 35 144" stroke="#00F0FF" stroke-width="1.2" stroke-opacity="0.5" />
+  <path d="M 874 125 L 855 144 M 874 134 L 864 144 M 874 115 L 845 144" stroke="#00F0FF" stroke-width="1.2" stroke-opacity="0.5" />
+
+  <!-- BRATHAP S in PURE CRISP WHITE -->
+  <text x="35" y="92" font-family="'Segoe UI', -apple-system, system-ui, 'DejaVu Sans', sans-serif" font-size="52" font-weight="950" fill="#FFFFFF" letter-spacing="4px">BRATHAP S</text>
+
+  <!-- Vertical Divider Line -->
+  <line x1="620" y1="20" x2="620" y2="130" stroke="#FF0044" stroke-width="1.2" stroke-opacity="0.4" stroke-dasharray="4 4" />
+
+  <!-- Telemetry Metadata Column -->
+  <g font-family="'JetBrains Mono', 'Fira Code', monospace" font-size="11" font-weight="700" fill="#A9B1D6">
+    <text x="640" y="38" fill="#FF0044">SUIT:<tspan fill="#FFFFFF" font-weight="600"> SYMBIOTE-V3</tspan></text>
+    <text x="640" y="56" fill="#00F0FF">CORE:<tspan fill="#FFFFFF" font-weight="600"> HYPRLAND-WAY</tspan></text>
+    <text x="640" y="74" fill="#00FFA3">LINK:<tspan fill="#FFFFFF" font-weight="600"> BASH // NEOVIM</tspan></text>
+    <text x="640" y="92" fill="#9D00FF">STATUS:<tspan fill="#FFFFFF" font-weight="600"> OSCILLATING</tspan></text>
+    <text x="640" y="110" fill="#FF3366">SIGNAL:<tspan fill="#FFFFFF" font-weight="600"> 100% NEON</tspan></text>
+    <text x="640" y="128" fill="#00F0FF">LOC:<tspan fill="#FFFFFF" font-weight="600"> EARTH-616</tspan></text>
+  </g>
+</svg>

@@ -36,7 +36,7 @@
 
 <div align="center">
 
-<img src="./assets/telemetry_terminal.svg" width="100%" alt="Suit Telemetry Terminal" />
+<img src="./assets/telemetry_terminal_v2.svg" width="100%" alt="Suit Telemetry Terminal" />
 
 </div>
 
