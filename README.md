@@ -1,246 +1,183 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:020617,25:06202B,55:007A99,100:00E5FF&height=300&section=header&text=BRATHAP%20S&fontSize=72&fontColor=FFFFFF&animation=twinkling&fontAlignY=38&desc=SYSTEMS%20ARCHITECT%20%2F%2F%20AI%20ENGINEER&descSize=19&descAlignY=62&descColor=00E5FF" width="100%"/>
+<!-- HERO BANNER -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:020617,30:041b26,65:007a99,100:00e5ff&height=320&section=header&text=BRATHAP%20S&fontSize=70&fontColor=ffffff&animation=twinkling&fontAlignY=38&desc=%E2%9A%A1%20SYSTEMS%20ARCHITECT%20%7C%20AI%20%26%20AUTOMATION%20ENGINEER&descSize=20&descAlignY=62&descColor=00e5ff" width="100%"/>
 
-<br>
-
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=18&duration=2800&pause=700&color=00E5FF&center=true&vCenter=true&width=900&lines=INITIALIZING+BRATHAP.OS...;AUTONOMOUS+SYSTEMS+%5BONLINE%5D;AI+AGENTS+%5BONLINE%5D;LINUX+INFRASTRUCTURE+%5BONLINE%5D;AUTOMATION+ENGINE+%5BONLINE%5D;BUILDING+SYSTEMS+THAT+BUILD+SYSTEMS" />
-
-<br><br>
-
-<img src="https://img.shields.io/badge/SYSTEM-ONLINE-00E5FF?style=for-the-badge&labelColor=050B0F&logo=linux&logoColor=00E5FF"/>
-<img src="https://img.shields.io/badge/MODE-BUILDING-00E5FF?style=for-the-badge&labelColor=050B0F"/>
-<img src="https://img.shields.io/badge/FOCUS-AI%20%2B%20SYSTEMS-00E5FF?style=for-the-badge&labelColor=050B0F"/>
-<img src="https://img.shields.io/badge/OS-ARCH-00E5FF?style=for-the-badge&labelColor=050B0F&logo=archlinux&logoColor=00E5FF"/>
-
-<br><br>
-
+<!-- TYPING ANIMATION -->
 <a href="https://github.com/Brathap">
-<img src="https://komarev.com/ghpvc/?username=Brathap&style=for-the-badge&color=00E5FF&label=VISITORS"/>
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=19&duration=2500&pause=800&color=00E5FF&center=true&vCenter=true&width=800&lines=%3E+INITIALIZING+BRATHAP.OS...;%3E+AI+AGENTS+%26+AUTOMATION+ENGINES;%3E+LINUX+KERNEL+%26+SYSTEMS+INFRASTRUCTURE;%3E+CROSS-PLATFORM+APPLICATIONS+%5BFLUTTER+%2B+ELECTRON%5D;%3E+BUILDING+SYSTEMS+THAT+BUILD+SYSTEMS" alt="Typing SVG" />
 </a>
-
-<a href="https://github.com/Brathap?tab=followers">
-<img src="https://img.shields.io/github/followers/Brathap?style=for-the-badge&color=00E5FF&labelColor=050B0F&label=FOLLOWERS"/>
-</a>
-
-<a href="https://github.com/Brathap?tab=repositories">
-<img src="https://img.shields.io/github/stars/Brathap?style=for-the-badge&color=00E5FF&labelColor=050B0F&label=STARS"/>
-</a>
-
-</div>
-
----
-
-<div align="center">
-
-```text
-╔══════════════════════════════════════════════════════════════════════╗
-║                         BRATHAP // CORE                             ║
-╠══════════════════════════════════════════════════════════════════════╣
-║                                                                      ║
-║   ██████╗ ██████╗  █████╗ ████████╗██╗  ██╗ █████╗ ██████╗          ║
-║   ██╔══██╗██╔══██╗██╔══██╗╚══██╔══╝██║  ██║██╔══██╗██╔══██╗         ║
-║   ██████╔╝██████╔╝███████║   ██║   ███████║███████║██████╔╝         ║
-║   ██╔══██╗██╔══██╗██╔══██║   ██║   ██╔══██║██╔══██║██╔═══╝          ║
-║   ██████╔╝██║  ██║██║  ██║   ██║   ██║  ██║██║  ██║██║              ║
-║   ╚═════╝ ╚═╝  ╚═╝╚═╝  ╚═╝   ╚═╝   ╚═╝  ╚═╝╚═╝  ╚═╝╚═╝              ║
-║                                                                      ║
-║              SYSTEMS  •  AI  •  AUTOMATION  •  LINUX               ║
-║                                                                      ║
-╚══════════════════════════════════════════════════════════════════════╝
-```
-
-</div>
-
-<br>
-
-## `01 // SYSTEM PROFILE`
-
-<div align="center">
-
-<table>
-<tr>
-<td align="center" width="25%">
-
-### 🧠
-
-**AI**
-
-Agents
-Automation
-Vision
-Voice
-
-</td>
-
-<td align="center" width="25%">
-
-### ⚙️
-
-**SYSTEMS**
-
-Linux
-Networking
-Processes
-Infrastructure
-
-</td>
-
-<td align="center" width="25%">
-
-### 📱
-
-**APPLICATIONS**
-
-Flutter
-TypeScript
-Python
-Cloud
-
-</td>
-
-<td align="center" width="25%">
-
-### 🛠️
-
-**ENGINEERING**
-
-Architecture
-DevTools
-CLI
-Automation
-
-</td>
-</tr>
-</table>
-
-</div>
-
----
-
-# `02 // TECHNOLOGY MATRIX`
-
-<div align="center">
-
-### LANGUAGES
-
-<img src="https://skillicons.dev/icons?i=python,typescript,dart,c,cpp,bash&theme=dark" />
 
 <br><br>
 
-### FRAMEWORKS / PLATFORMS
-
-<img src="https://skillicons.dev/icons?i=flutter,firebase,supabase,docker&theme=dark" />
+<!-- STATUS BADGES -->
+<a href="https://github.com/Brathap">
+  <img src="https://img.shields.io/badge/STATUS-ONLINE-00E5FF?style=for-the-badge&labelColor=050B0F&logo=statuspage&logoColor=00E5FF" />
+  <img src="https://img.shields.io/badge/ARCH%20LINUX-HYPRLAND-00E5FF?style=for-the-badge&labelColor=050B0F&logo=archlinux&logoColor=00E5FF" />
+  <img src="https://img.shields.io/badge/DEV-NEOVIM-00E5FF?style=for-the-badge&labelColor=050B0F&logo=neovim&logoColor=00E5FF" />
+  <img src="https://img.shields.io/badge/FOCUS-AI%20%2B%20SYSTEMS-00E5FF?style=for-the-badge&labelColor=050B0F&logo=openai&logoColor=00E5FF" />
+</a>
 
 <br><br>
 
-### SYSTEM
-
-<img src="https://skillicons.dev/icons?i=linux,arch,neovim,vscode,git,github&theme=dark" />
+<!-- TELEMETRY BADGES -->
+<a href="https://github.com/Brathap">
+  <img src="https://komarev.com/ghpvc/?username=Brathap&style=for-the-badge&color=00E5FF&label=SYSTEM+ACCESSORS" />
+  <img src="https://img.shields.io/github/followers/Brathap?style=for-the-badge&color=00E5FF&labelColor=050B0F&label=NETWORK+NODES" />
+  <img src="https://img.shields.io/github/stars/Brathap?style=for-the-badge&color=00E5FF&labelColor=050B0F&label=STARS+HARVESTED" />
+</a>
 
 </div>
 
-<br>
+---
 
 <div align="center">
 
 ```text
-                         ┌───────────────┐
-                         │   ARTIFICIAL  │
-                         │ INTELLIGENCE  │
-                         └───────┬───────┘
-                                 │
-                                 ▼
-                    ┌────────────────────────┐
-                    │       BRATHAP.OS       │
-                    │                        │
-                    │  SYSTEMS ARCHITECTURE  │
-                    └───────────┬────────────┘
-                                │
-          ┌─────────────────────┼─────────────────────┐
-          │                     │                     │
-          ▼                     ▼                     ▼
-      ┌─────────┐           ┌─────────┐           ┌─────────┐
-      │  LINUX  │           │  AGENTS │           │  MOBILE │
-      └────┬────┘           └────┬────┘           └────┬────┘
-           │                     │                     │
-      ┌────┴────┐           ┌────┴────┐           ┌────┴────┐
-      │ C/C++   │           │ Python  │           │ Flutter │
-      │ Bash    │           │   AI    │           │  Dart   │
-      │ Network │           │ Browser │           │   DB    │
-      └─────────┘           └─────────┘           └─────────┘
+┌──────────────────────────────────────────────────────────────────────────────┐
+│  ██████╗ ██████╗  █████╗ ████████╗██╗  ██╗ █████╗ ██████╗   OS: ARCH LINUX   │
+│  ██╔══██╗██╔══██╗██╔══██╗╚══██╔══╝██║  ██║██╔══██╗██╔══██╗  WM: HYPRLAND    │
+│  ██████╔╝██████╔╝███████║   ██║   ███████║███████║██████╔╝  SHELL: BASH      │
+│  ██╔══██╗██╔══██╗██╔══██║   ██║   ██╔══██║██╔══██║██╔═══╝   EDITOR: NEOVIM   │
+│  ██████╔╝██║  ██║██║  ██║   ██║   ██║  ██║██║  ██║██║       STATUS: ACTIVE   │
+│  ╚═════╝ ╚═╝  ╚═╝╚═╝  ╚═╝   ╚═╝   ╚═╝  ╚═╝╚═╝  ╚═╝╚═╝       LOC: 127.0.0.1   │
+└──────────────────────────────────────────────────────────────────────────────┘
 ```
 
 </div>
 
 ---
 
-# `03 // FLAGSHIP SYSTEMS`
+## ⚡ `01 // SYSTEM OVERVIEW`
+
+<div align="center">
+
+<table>
+<tr>
+<td width="25%" align="center">
+<br>
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Gear.png" width="45" height="45" />
+<br><br>
+<b>SYSTEMS ARCHITECTURE</b>
+<br><br>
+<sub>Linux Kernel Internals, Wayland/X11 Protocol Interaction, Process Automation, Microservices</sub>
+<br><br>
+</td>
+
+<td width="25%" align="center">
+<br>
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Robot.png" width="45" height="45" />
+<br><br>
+<b>AI & AUTONOMY</b>
+<br><br>
+<sub>Autonomous Agents, Speech Synthesis/Recognition, Computer Vision Pipelines, Intelligent Tooling</sub>
+<br><br>
+</td>
+
+<td width="25%" align="center">
+<br>
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Mobile%20Phone.png" width="45" height="45" />
+<br><br>
+<b>CROSS-PLATFORM</b>
+<br><br>
+<sub>Flutter & Dart Mobile/Desktop, Electron GPU Acceleration, High-Performance Native UI</sub>
+<br><br>
+</td>
+
+<td width="25%" align="center">
+<br>
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Locked%20with%20Key.png" width="45" height="45" />
+<br><br>
+<b>ENGINEERING CORE</b>
+<br><br>
+<sub>Clean Architecture, Zero-Dependency Standard Library Engineering, CI/CD Cloud Builds</sub>
+<br><br>
+</td>
+</tr>
+</table>
+
+</div>
+
+---
+
+## 🛠️ `02 // TECH STACK MATRIX`
+
+<div align="center">
+
+### `CORE LANGUAGES`
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,c,cpp,dart,js,ts,bash&theme=dark" />
+</p>
+
+### `FRAMEWORKS & RUNTIMES`
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=flutter,electron,nodejs,fastapi,react&theme=dark" />
+</p>
+
+### `SYSTEMS & DEVOPS INFRASTRUCTURE`
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=linux,arch,docker,githubactions,git,neovim,vscode&theme=dark" />
+</p>
+
+### `DATA & CLOUD ECOSYSTEM`
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=supabase,firebase,postgres,sqlite&theme=dark" />
+</p>
+
+</div>
+
+---
+
+## 🚀 `03 // FEATURED DEPLOYMENTS & FLAGSHIP PROJECTS`
 
 <div align="center">
 
 <table>
 <tr>
 
+<!-- PROJECT 1: AUTOTYPER -->
 <td width="50%" align="center">
 
-## 🤖 JARVIS AI
+### ⌨️ [AutoTyper](https://github.com/Brathap/autotyper)
+**Universal Zero-Dependency Keyboard Simulator**
 
-<a href="https://github.com/brathap/Jarvis_AI">
-
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=Brathap&repo=Jarvis_AI&theme=github_dark&hide_border=true&title_color=00E5FF&icon_color=00E5FF"/>
-
+<a href="https://github.com/Brathap/autotyper">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Brathap&repo=autotyper&theme=tokyonight&hide_border=true&title_color=00E5FF&icon_color=00E5FF" />
 </a>
 
-```text
-        🎙 VOICE
-           │
-           ▼
-     ┌─────────────┐
-     │     AI      │
-     │    CORE     │
-     └──────┬──────┘
-            │
-       ┌────┴────┐
-       ▼         ▼
-    BROWSER    SYSTEM
-       │         │
-       └────┬────┘
-            ▼
-         RESULT
-```
+<br>
 
-`PYTHON` `AI` `AUTOMATION` `BROWSER`
+- Pure standard-library native drivers: **Win32 `ctypes`** & **macOS AppleScript**.
+- Full **Wayland (`wtype`)** & **X11 (`xdotool`)** auto-detection on Linux.
+- Smart auto-indentation corrector, speech typing, and instant stop.
+- Automated multi-OS `.exe` & Mac binary GitHub Actions builds.
+
+<br>
+
+`Python` `Win32 API` `AppleScript` `Wayland` `Automation`
 
 </td>
 
+<!-- PROJECT 2: JARVIS AI -->
 <td width="50%" align="center">
 
-## ⚡ ARCH HYPRLAND
+### 🤖 [J.A.R.V.I.S. AI](https://github.com/Brathap/Jarvis_AI)
+**Sci-Fi Voice Assistant & Desktop Intelligence**
 
-<a href="https://github.com/brathap/Arch-Hyprland-setup">
-
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=Brathap&repo=Arch-Hyprland-setup&theme=github_dark&hide_border=true&title_color=00E5FF&icon_color=00E5FF"/>
-
+<a href="https://github.com/Brathap/Jarvis_AI">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Brathap&repo=Jarvis_AI&theme=tokyonight&hide_border=true&title_color=00E5FF&icon_color=00E5FF" />
 </a>
 
-```text
-       ARCH LINUX
-           │
-     ┌─────┼─────┐
-     ▼     ▼     ▼
-   HYPR   ROFI  WAYBAR
-     │     │     │
-     └─────┼─────┘
-           ▼
-       NEOVIM
-           │
-           ▼
-      DEVELOPER
-       WORKFLOW
-```
+<br>
 
-`ARCH` `HYPRLAND` `BASH` `ROFI`
+- Full interactive voice interface with futuristic HUD aesthetics.
+- Real-time conversational AI loop with multimodal capabilities.
+- Autonomous desktop and browser automation (YouTube, Google, Apps).
+- Integrated Speech-to-Text & system task scheduler.
+
+<br>
+
+`Python` `SpeechRecognition` `Tkinter` `Automation` `AI`
 
 </td>
 
@@ -248,35 +185,49 @@ Automation
 
 <tr>
 
+<!-- PROJECT 3: ARCH HYPRLAND SETUP -->
 <td width="50%" align="center">
 
-## 🎯 SKILLLENS
+### ⚡ [Arch-Hyprland-Setup](https://github.com/Brathap/Arch-Hyprland-setup)
+**Futuristic Cyber-Shards Wayland Desktop Environment**
 
-<a href="https://github.com/brathap/skilllens">
-
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=Brathap&repo=skilllens&theme=github_dark&hide_border=true&title_color=00E5FF&icon_color=00E5FF"/>
-
+<a href="https://github.com/Brathap/Arch-Hyprland-setup">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Brathap&repo=Arch-Hyprland-setup&theme=tokyonight&hide_border=true&title_color=00E5FF&icon_color=00E5FF" />
 </a>
 
-### SKILL INTELLIGENCE
+<br>
 
-`TYPESCRIPT` `DATA` `LEARNING`
+- Highly optimized Arch Linux + Hyprland tiling window workflow.
+- Custom neon "Cyber-Shards" Rofi app launcher and Waybar status bars.
+- Seamless dual-monitor configuration with GPU-accelerated rendering.
+- Tailored keyboard-first developer keybindings & terminal automation.
+
+<br>
+
+`Arch Linux` `Hyprland` `Wayland` `Bash` `Rofi` `Waybar`
 
 </td>
 
+<!-- PROJECT 4: WHATSAPP DESKTOP -->
 <td width="50%" align="center">
 
-## ⌨️ AUTOTYPER
+### 💬 [WhatsApp Desktop Linux](https://github.com/Brathap/whatsapp-desktop)
+**GPU-Accelerated Wayland-Native Desktop Client**
 
-<a href="https://github.com/brathap/autotyper">
-
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=Brathap&repo=autotyper&theme=github_dark&hide_border=true&title_color=00E5FF&icon_color=00E5FF"/>
-
+<a href="https://github.com/Brathap/whatsapp-desktop">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Brathap&repo=whatsapp-desktop&theme=tokyonight&hide_border=true&title_color=00E5FF&icon_color=00E5FF" />
 </a>
 
-### AUTOMATION ENGINE
+<br>
 
-`PYTHON` `DESKTOP` `AUTOMATION`
+- Native Wayland & AMD GPU hardware acceleration support.
+- Instant clipboard synchronization & seamless screen-sharing.
+- Ultra-low memory footprint with smooth continuous scrolling.
+- Native system tray notifications and audio routing.
+
+<br>
+
+`Electron` `JavaScript` `Wayland` `Linux` `AMD-GPU`
 
 </td>
 
@@ -284,35 +235,47 @@ Automation
 
 <tr>
 
+<!-- PROJECT 5: WILD SIGHT -->
 <td width="50%" align="center">
 
-## 📱 CHAT APP
+### 👁️ [Wild-Sight](https://github.com/Brathap/wild-sight)
+**Edge Computer Vision & Wildlife Detection**
 
-<a href="https://github.com/brathap/chat-app">
-
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=Brathap&repo=chat-app&theme=github_dark&hide_border=true&title_color=00E5FF&icon_color=00E5FF"/>
-
+<a href="https://github.com/Brathap/wild-sight">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Brathap&repo=wild-sight&theme=tokyonight&hide_border=true&title_color=00E5FF&icon_color=00E5FF" />
 </a>
 
-### CROSS-PLATFORM COMMUNICATION
+<br>
 
-`FLUTTER` `DART` `FIREBASE`
+- Computer vision pipeline for real-time edge object detection.
+- High-efficiency inference with low-latency event alerts.
+- Built for standalone remote sensor units and automated telemetry.
+
+<br>
+
+`Python` `Computer Vision` `Dart` `Edge AI`
 
 </td>
 
+<!-- PROJECT 6: CHAT APP -->
 <td width="50%" align="center">
 
-## 👁️ WILD SIGHT
+### 📱 [Chat-App](https://github.com/Brathap/chat-app)
+**Real-Time Reactive Flutter Messenger**
 
-<a href="https://github.com/brathap/wild-sight">
-
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=Brathap&repo=wild-sight&theme=github_dark&hide_border=true&title_color=00E5FF&icon_color=00E5FF"/>
-
+<a href="https://github.com/Brathap/chat-app">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Brathap&repo=chat-app&theme=tokyonight&hide_border=true&title_color=00E5FF&icon_color=00E5FF" />
 </a>
 
-### COMPUTER VISION
+<br>
 
-`PYTHON` `VISION` `DATA`
+- Reactive real-time message stream with sub-100ms sync latency.
+- Cross-platform unified codebase targeting Android, iOS, and Web.
+- Secure token-based session management and media attachment support.
+
+<br>
+
+`Flutter` `Dart` `Firebase` `Realtime DB`
 
 </td>
 
@@ -323,272 +286,90 @@ Automation
 
 ---
 
-# `04 // AI CORE`
+## 📊 `04 // SYSTEM TELEMETRY & STATS`
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:00141A,50:003B4D,100:00E5FF&height=120&section=header&text=AUTONOMOUS%20INTELLIGENCE&fontSize=28&fontColor=FFFFFF&animation=fadeIn" width="90%"/>
+<img height="185" src="https://github-readme-stats.vercel.app/api?username=Brathap&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&theme=tokyonight&title_color=00E5FF&icon_color=00E5FF&text_color=A9B1D6&bg_color=0D1117&custom_title=TELEMETRY%20METRICS"/>
+<img height="185" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Brathap&layout=compact&langs_count=8&hide_border=true&theme=tokyonight&title_color=00E5FF&text_color=A9B1D6&bg_color=0D1117&custom_title=LANGUAGE%20DISTRIBUTION"/>
 
-<br>
-
-```text
-                         ┌───────────────────┐
-                         │      HUMAN        │
-                         │      INTENT       │
-                         └─────────┬─────────┘
-                                   │
-                                   ▼
-                         ┌───────────────────┐
-                         │   PERCEPTION      │
-                         │ VOICE / TEXT / UI │
-                         └─────────┬─────────┘
-                                   │
-                                   ▼
-                         ┌───────────────────┐
-                         │      REASON       │
-                         │    LLM / LOGIC    │
-                         └─────────┬─────────┘
-                                   │
-                                   ▼
-                         ┌───────────────────┐
-                         │       PLAN        │
-                         │  AGENT / TOOLS    │
-                         └─────────┬─────────┘
-                                   │
-                  ┌────────────────┼────────────────┐
-                  ▼                ▼                ▼
-             ┌─────────┐      ┌─────────┐      ┌─────────┐
-             │ BROWSER │      │  LINUX  │      │  APPS   │
-             └────┬────┘      └────┬────┘      └────┬────┘
-                  │                │                │
-                  └────────────────┼────────────────┘
-                                   ▼
-                         ┌───────────────────┐
-                         │     EXECUTE       │
-                         └─────────┬─────────┘
-                                   │
-                                   ▼
-                         ┌───────────────────┐
-                         │      RESULT       │
-                         └───────────────────┘
-```
-
-</div>
-
----
-
-# `05 // PRIVATE LAB`
-
-<div align="center">
-
-<table>
-<tr>
-<td align="center">
-
-### `01`
-
-## NETWORK RESEARCH
-
-`████████████████████`
-
-**PROTOCOL / APPLICATION SYSTEMS**
-
-</td>
-
-<td align="center">
-
-### `02`
-
-## PROXIMITY SYNC
-
-`████████████████████`
-
-**OFFLINE-FIRST / BLUETOOTH / SUPABASE**
-
-</td>
-</tr>
-
-<tr>
-<td align="center">
-
-### `03`
-
-## GHOST WRITER
-
-`███████████████░░░░░`
-
-**TTF / DOCUMENT AUTOMATION**
-
-</td>
-
-<td align="center">
-
-### `04`
-
-## WORKFLOW SUITE
-
-`████████████████░░░░`
-
-**INTERNAL DEVELOPER TOOLING**
-
-</td>
-</tr>
-</table>
-
-</div>
-
----
-
-# `06 // SYSTEM TELEMETRY`
-
-<div align="center">
-
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=Brathap&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&theme=github_dark&title_color=00E5FF&icon_color=00E5FF&text_color=C9D1D9&bg_color=0D1117&custom_title=BRATHAP%20//%20SYSTEM%20TELEMETRY"/>
-
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Brathap&layout=compact&langs_count=10&hide_border=true&theme=github_dark&title_color=00E5FF&text_color=C9D1D9&bg_color=0D1117&custom_title=LANGUAGE%20MATRIX"/>
-
-</div>
-
-<br>
-
-<div align="center">
+<br><br>
 
 <img src="https://streak-stats.demolab.com?user=Brathap&hide_border=true&background=0D1117&ring=00E5FF&fire=00E5FF&currStreakLabel=00E5FF&sideLabels=00E5FF&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=6B7280"/>
 
+<br><br>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Brathap&bg_color=0D1117&color=00E5FF&line=00E5FF&point=FFFFFF&area_color=003B4D&area=true&hide_border=true&custom_title=NEURAL%20ACTIVITY%20STREAM"/>
+
 </div>
 
 ---
 
-# `07 // ACTIVITY MATRIX`
+## 🐍 `05 // CONTRIBUTION MATRIX`
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Brathap&bg_color=050B0F&color=00E5FF&line=00E5FF&point=FFFFFF&area_color=003B4D&area=true&hide_border=true&custom_title=NEURAL%20ACTIVITY%20MATRIX"/>
+<img src="https://raw.githubusercontent.com/Brathap/Brathap/output/github-contribution-grid-snake-dark.svg" width="100%" alt="Contribution Snake" />
 
 </div>
 
 ---
 
-# `08 // CONTRIBUTION STREAM`
-
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/Brathap/Brathap/output/github-contribution-grid-snake-dark.svg" width="100%"/>
-
-</div>
-
----
-
-# `09 // DEVELOPMENT ENVIRONMENT`
-
-<div align="center">
-
-```text
-┌─────────────────────────────────────────────────────────────────────┐
-│                         DEVELOPMENT NODE                            │
-├─────────────────────────────────────────────────────────────────────┤
-│                                                                     │
-│   OS          ████████████████████████  ARCH LINUX                 │
-│   WM          ████████████████████████  HYPRLAND                   │
-│   EDITOR      ████████████████████████  NEOVIM                     │
-│   SHELL       ████████████████████████  BASH                       │
-│   CONTAINER   ███████████████████░░░░░  DOCKER                     │
-│   VERSION     ████████████████████████  GIT                        │
-│                                                                     │
-│   KEYBOARD > MOUSE                                                  │
-│   TERMINAL > GUI                                                    │
-│   AUTOMATION > REPETITION                                           │
-│                                                                     │
-└─────────────────────────────────────────────────────────────────────┘
-```
-
-</div>
-
----
-
-# `10 // ENGINEERING PRINCIPLES`
+## 🏛️ `06 // ENGINEERING PHILOSOPHY`
 
 <div align="center">
 
 <table>
 <tr>
-
-<td align="center">
+<td align="center" width="33%">
 
 ### `01`
-
-## UNDERSTAND
-
-<br>
-
-**Know what happens underneath the abstraction.**
+### 🔍 UNDERSTAND
+**Know what happens underneath the abstraction layer.**
 
 </td>
 
-<td align="center">
+<td align="center" width="33%">
 
 ### `02`
-
-## AUTOMATE
-
-<br>
-
-**If it repeats, make the machine do it.**
+### ⚡ AUTOMATE
+**If a task repeats twice, write a script to eliminate it.**
 
 </td>
 
-<td align="center">
+<td align="center" width="33%">
 
 ### `03`
-
-## EXPERIMENT
-
-<br>
-
-**Build things that don't have tutorials.**
+### 🧪 EXPERIMENT
+**Build architectures that break boundaries without tutorials.**
 
 </td>
-
 </tr>
 
 <tr>
-
-<td align="center">
+<td align="center" width="33%">
 
 ### `04`
-
-## SIMPLIFY
-
-<br>
-
-**Complexity belongs inside the system.**
+### 🧩 SIMPLIFY
+**Complexity belongs inside the machine, simplicity on the surface.**
 
 </td>
 
-<td align="center">
+<td align="center" width="33%">
 
 ### `05`
-
-## ENGINEER
-
-<br>
-
-**Architecture first. Implementation second.**
+### 🏗️ ARCHITECT
+**Structure first. Implementation second. Maintainability forever.**
 
 </td>
 
-<td align="center">
+<td align="center" width="33%">
 
 ### `06`
-
-## SHIP
-
-<br>
-
-**A working system beats a perfect idea.**
+### 🚢 SHIP
+**A working system in production beats a flawless idea in draft.**
 
 </td>
-
 </tr>
 </table>
 
@@ -596,58 +377,36 @@ Automation
 
 ---
 
-# `11 // TERMINAL`
+## 📡 `07 // ESTABLISH CONNECTION`
 
 <div align="center">
 
 ```text
-┌─────────────────────────────────────────────────────────────────────┐
-│ brathap@arch:~$ ./connect.sh                                       │
-├─────────────────────────────────────────────────────────────────────┤
-│                                                                     │
-│  Initializing communication subsystem...                            │
-│                                                                     │
-│  [████████████████████████████████████████] 100%                   │
-│                                                                     │
-│  ✓ Identity verified                                                │
-│  ✓ GitHub channel established                                       │
-│  ✓ Engineering interface online                                     │
-│                                                                     │
-│  brathap@arch:~$ echo "BUILD SOMETHING IMPOSSIBLE"                 │
-│                                                                     │
-│  BUILD SOMETHING IMPOSSIBLE_                                       │
-│                                                                     │
-└─────────────────────────────────────────────────────────────────────┘
+┌──────────────────────────────────────────────────────────────────────────────┐
+│  brathap@arch:~$ ./connect.sh --target global                                │
+│                                                                              │
+│  [✓] Security Handshake: Verified                                            │
+│  [✓] Transmission Protocol: Ready                                            │
+│  [✓] Signal Strength: 100%                                                   │
+│                                                                              │
+│  Status: OPEN FOR COLLABORATIONS, AGENTIC SYSTEMS & OPEN-SOURCE MISSIONS      │
+└──────────────────────────────────────────────────────────────────────────────┘
 ```
 
 <br>
 
-<a href="mailto:your-email@example.com">
-<img src="https://img.shields.io/badge/EMAIL-00E5FF?style=for-the-badge&logo=gmail&logoColor=050B0F&labelColor=0D1117"/>
+<a href="mailto:brathaps12@gmail.com">
+  <img src="https://img.shields.io/badge/GMAIL-brathaps12%40gmail.com-00E5FF?style=for-the-badge&logo=gmail&logoColor=050B0F&labelColor=0D1117" />
 </a>
-
-<a href="https://linkedin.com/in/your-profile">
-<img src="https://img.shields.io/badge/LINKEDIN-00E5FF?style=for-the-badge&logo=linkedin&logoColor=050B0F&labelColor=0D1117"/>
-</a>
-
 <a href="https://github.com/Brathap">
-<img src="https://img.shields.io/badge/GITHUB-00E5FF?style=for-the-badge&logo=github&logoColor=050B0F&labelColor=0D1117"/>
+  <img src="https://img.shields.io/badge/GITHUB-@Brathap-00E5FF?style=for-the-badge&logo=github&logoColor=050B0F&labelColor=0D1117" />
 </a>
 
-</div>
+<br><br>
 
----
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00e5ff,50:003b4d,100:020617&height=140&section=footer&animation=twinkling"/>
 
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00E5FF,50:003B4D,100:020617&height=150&section=footer&animation=twinkling"/>
-
-</div>
-
-<div align="center">
-
-### `BUILD // BREAK // UNDERSTAND // REBUILD`
-
+### `BUILD // BREAK // UNDERSTAND // TRANSCEND`
 <sub>Systems are not just written. They are engineered.</sub>
 
 </div>
