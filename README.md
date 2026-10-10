@@ -299,17 +299,7 @@
 
 <br><br>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Brathap&bg_color=0D1117&color=00E5FF&line=00E5FF&point=FFFFFF&area_color=003B4D&area=true&hide_border=true&custom_title=NEURAL%20ACTIVITY%20STREAM"/>
-
-</div>
-
----
-
-## 🐍 `05 // CONTRIBUTION MATRIX`
-
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/Brathap/Brathap/output/github-contribution-grid-snake-dark.svg" width="100%" alt="Contribution Snake" />
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" width="95%"/>
 
 </div>
 
