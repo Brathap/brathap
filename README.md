@@ -1,7 +1,7 @@
 <div align="center">
 
-<!-- SPIDER-VERSE VECTOR HERO BANNER -->
-<img src="./assets/header.svg" width="100%" alt="Brathap S - Systems Architect & AI Engineer" />
+<!-- INTEGRATED SPIDER-VERSE HERO BANNER (3D Web Networks, Suit Telemetry, and Bold White Typography) -->
+<img src="./assets/spiderverse_hero.svg" width="100%" alt="Brathap S - Systems Architect & AI Engineer" />
 
 <br><br>
 
@@ -20,9 +20,9 @@
   <img src="https://img.shields.io/badge/EDITOR-NEOVIM-00FFA3?style=for-the-badge&logo=neovim&logoColor=00FFA3&labelColor=05140D" alt="Neovim" />
 </p>
 
-<br><br>
+<br>
 
-<!-- TELEMETRY COUNTERS -->
+<!-- SUIT TELEMETRY STATUS CHIPS -->
 <p align="center">
   <img src="https://img.shields.io/badge/MISSION-SYSTEMS%20%26%20AI-FF0044?style=for-the-badge&logo=target&logoColor=white&labelColor=17040C" alt="Mission" />
   <img src="https://img.shields.io/github/followers/Brathap?style=for-the-badge&color=00F0FF&labelColor=050B14&label=ALLIED+NODES" alt="Allied Nodes" />
@@ -32,16 +32,9 @@
 
 </div>
 
----
-
-<div align="center">
-
-<img src="./assets/telemetry_terminal_v2.svg" width="100%" alt="Suit Telemetry Terminal" />
-
-</div>
-
----
-
+<p align="center">
+  <img src="./assets/spider_divider.svg" width="100%" alt="Spider Web Strand" />
+</p>
 ## 🕷️ `01 // THE MULTIVERSE PROTOCOLS`
 
 <div align="center">
@@ -92,7 +85,7 @@
 
 </div>
 
----
+<p align="center"><img src="./assets/spider_divider.svg" width="100%" alt="Spider Web Strand" /></p>
 
 ## ⚡ `02 // THE TECH ARSENAL`
 
@@ -137,7 +130,7 @@
 
 </div>
 
----
+<p align="center"><img src="./assets/spider_divider.svg" width="100%" alt="Spider Web Strand" /></p>
 
 ## 🕸️ `03 // SPIDER-SUITE: FLAGSHIP BUILDS`
 
@@ -295,7 +288,7 @@
 
 </div>
 
----
+<p align="center"><img src="./assets/spider_divider.svg" width="100%" alt="Spider Web Strand" /></p>
 
 ## 📊 `04 // SUIT TELEMETRY & METRICS`
 
@@ -310,7 +303,7 @@
 
 </div>
 
----
+<p align="center"><img src="./assets/spider_divider.svg" width="100%" alt="Spider Web Strand" /></p>
 
 ## 🏛️ `05 // THE SPIDER-CODE`
 
@@ -372,7 +365,7 @@
 
 </div>
 
----
+<p align="center"><img src="./assets/spider_divider.svg" width="100%" alt="Spider Web Strand" /></p>
 
 ## 📡 `06 // TRANSMIT TO EARTH-616`
 

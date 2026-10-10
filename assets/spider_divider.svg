@@ -1,0 +1,35 @@
+<svg width="900" height="42" viewBox="0 0 900 42" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <filter id="web-glow" x="-10%" y="-10%" width="120%" height="120%">
+      <feDropShadow dx="0" dy="0" stdDeviation="2.5" flood-color="#FF0044" flood-opacity="0.6" />
+    </filter>
+  </defs>
+
+  <!-- Left Web Thread -->
+  <line x1="0" y1="21" x2="400" y2="21" stroke="#FF0044" stroke-width="1.6" stroke-opacity="0.7" />
+  <line x1="50" y1="21" x2="120" y2="6" stroke="#00F0FF" stroke-width="1" stroke-opacity="0.5" />
+  <line x1="200" y1="21" x2="280" y2="36" stroke="#00F0FF" stroke-width="1" stroke-opacity="0.5" />
+  <path d="M 320 21 Q 345 8 370 21" stroke="#FF0044" stroke-width="1.2" stroke-opacity="0.6" fill="none" />
+  <path d="M 340 21 Q 365 34 390 21" stroke="#00F0FF" stroke-width="1.2" stroke-opacity="0.6" fill="none" />
+
+  <!-- Center Glowing Cyber Spider Badge -->
+  <g transform="translate(450, 21) scale(0.65)" filter="url(#web-glow)">
+    <ellipse cx="0" cy="0" rx="6" ry="12" fill="#FF0044" />
+    <ellipse cx="0" cy="-10" rx="4" ry="4.5" fill="#FF0044" />
+    <path d="M -3 -6 Q -18 -18 -24 -36 Q -14 -22 -5 -11" fill="#FF0044" />
+    <path d="M 3 -6 Q 18 -18 24 -36 Q 14 -22 5 -11" fill="#FF0044" />
+    <path d="M -5 -2 Q -24 -10 -30 -22 Q -18 -5 -7 -1" fill="#FF0044" />
+    <path d="M 5 -2 Q 24 -10 30 -22 Q 18 -5 7 -1" fill="#FF0044" />
+    <path d="M -5 3 Q -24 13 -28 28 Q -16 13 -7 4" fill="#FF0044" />
+    <path d="M 5 3 Q 24 13 28 28 Q 16 13 7 4" fill="#FF0044" />
+    <path d="M -3 6 Q -18 24 -22 40 Q -12 25 -4 9" fill="#FF0044" />
+    <path d="M 3 6 Q 18 24 22 40 Q 12 25 4 9" fill="#FF0044" />
+  </g>
+
+  <!-- Right Web Thread -->
+  <line x1="500" y1="21" x2="900" y2="21" stroke="#FF0044" stroke-width="1.6" stroke-opacity="0.7" />
+  <line x1="780" y1="21" x2="850" y2="6" stroke="#00F0FF" stroke-width="1" stroke-opacity="0.5" />
+  <line x1="620" y1="21" x2="700" y2="36" stroke="#00F0FF" stroke-width="1" stroke-opacity="0.5" />
+  <path d="M 530 21 Q 555 8 580 21" stroke="#FF0044" stroke-width="1.2" stroke-opacity="0.6" fill="none" />
+  <path d="M 510 21 Q 535 34 560 21" stroke="#00F0FF" stroke-width="1.2" stroke-opacity="0.6" fill="none" />
+</svg>
