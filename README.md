@@ -1,20 +1,20 @@
 <div align="center">
 
-<!-- SPIDER-VERSE NATIVE VECTOR BANNER -->
+<!-- SPIDER-VERSE VECTOR HERO BANNER -->
 <img src="./assets/header.svg" width="100%" alt="Brathap S - Systems Architect & AI Engineer" />
 
 <br><br>
 
 <!-- DYNAMIC SPIDER-SENSE STREAM -->
 <a href="https://github.com/Brathap">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=18&duration=2400&pause=800&color=FF003C&center=true&vCenter=true&width=800&lines=With+great+power+comes+great+architecture...;Weaving+autonomous+AI+agents+%26+intelligent+tools;Swinging+deep+into+Linux+kernel+%26+Wayland+internals;Building+zero-dependency+systems+across+the+multiverse" alt="Spider-Sense Typing Stream" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=19&duration=2400&pause=800&color=FF0044&center=true&vCenter=true&width=820&lines=With+great+power+comes+great+architecture...;Weaving+autonomous+AI+agents+%26+intelligent+tools;Swinging+deep+into+Linux+kernel+%26+Wayland+internals;Building+zero-dependency+systems+across+the+multiverse" alt="Spider-Sense Typing Stream" />
 </a>
 
 <br><br>
 
 <!-- SPIDER-VERSE THEMED STATUS BADGES -->
 <a href="https://github.com/Brathap">
-  <img src="https://img.shields.io/badge/SPIDER--SENSE-ACTIVE-FF003C?style=for-the-badge&logo=target&logoColor=white&labelColor=0D050B" alt="Spider Sense Active" />
+  <img src="https://img.shields.io/badge/SPIDER--SENSE-ACTIVE-FF0044?style=for-the-badge&logo=target&logoColor=white&labelColor=17040C" alt="Spider Sense Active" />
   <img src="https://img.shields.io/badge/ARCH%20LINUX-HYPRLAND-00F0FF?style=for-the-badge&logo=archlinux&logoColor=00F0FF&labelColor=050B14" alt="Arch Hyprland" />
   <img src="https://img.shields.io/badge/DIMENSION-EARTH--616-9D00FF?style=for-the-badge&logo=planetscale&logoColor=white&labelColor=0D051A" alt="Dimension" />
   <img src="https://img.shields.io/badge/EDITOR-NEOVIM-00FFA3?style=for-the-badge&logo=neovim&logoColor=00FFA3&labelColor=05140D" alt="Neovim" />
@@ -24,9 +24,9 @@
 
 <!-- TELEMETRY COUNTERS -->
 <a href="https://github.com/Brathap">
-  <img src="https://komarev.com/ghpvc/?username=Brathap&style=for-the-badge&color=FF003C&label=WEB+VISITORS" alt="Web Visitors" />
+  <img src="https://komarev.com/ghpvc/?username=Brathap&style=for-the-badge&color=FF0044&label=WEB+VISITORS" alt="Web Visitors" />
   <img src="https://img.shields.io/github/followers/Brathap?style=for-the-badge&color=00F0FF&labelColor=050B14&label=ALLIED+NODES" alt="Allied Nodes" />
-  <img src="https://img.shields.io/github/stars/Brathap?style=for-the-badge&color=FF003C&labelColor=0D050B&label=STARS+HARVESTED" alt="Stars Harvested" />
+  <img src="https://img.shields.io/github/stars/Brathap?style=for-the-badge&color=FF0044&labelColor=17040C&label=STARS+HARVESTED" alt="Stars Harvested" />
 </a>
 
 </div>
@@ -58,7 +58,7 @@
 <tr>
 <td width="25%" align="center">
 <br>
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Spider%20Web.png" width="48" height="48" alt="Web" />
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Spider%20Web.png" width="52" height="52" alt="Web" />
 <br><br>
 <b>SYSTEMS WEAVING</b>
 <br><br>
@@ -68,7 +68,7 @@
 
 <td width="25%" align="center">
 <br>
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Robot.png" width="48" height="48" alt="Robot" />
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Robot.png" width="52" height="52" alt="Robot" />
 <br><br>
 <b>AUTONOMOUS AI AGENTS</b>
 <br><br>
@@ -78,7 +78,7 @@
 
 <td width="25%" align="center">
 <br>
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Mobile%20Phone.png" width="48" height="48" alt="Mobile" />
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Mobile%20Phone.png" width="52" height="52" alt="Mobile" />
 <br><br>
 <b>CROSS-DIMENSIONAL APPS</b>
 <br><br>
@@ -88,7 +88,7 @@
 
 <td width="25%" align="center">
 <br>
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Lightning%20Mood.png" width="48" height="48" alt="Lightning" />
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Lightning%20Mood.png" width="52" height="52" alt="Lightning" />
 <br><br>
 <b>ZERO-DEPENDENCY CORE</b>
 <br><br>
@@ -161,7 +161,7 @@
 **Universal Zero-Dependency Keystroke Web-Shooter**
 
 <a href="https://github.com/Brathap/autotyper">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Brathap&repo=autotyper&theme=tokyonight&hide_border=true&title_color=FF003C&icon_color=00F0FF" alt="AutoTyper" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Brathap&repo=autotyper&theme=tokyonight&hide_border=true&title_color=FF0044&icon_color=00F0FF" alt="AutoTyper" />
 </a>
 
 <br>
@@ -184,7 +184,7 @@
 **Interactive Sci-Fi Desktop Autonomous Assistant**
 
 <a href="https://github.com/Brathap/Jarvis_AI">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Brathap&repo=Jarvis_AI&theme=tokyonight&hide_border=true&title_color=FF003C&icon_color=00F0FF" alt="Jarvis AI" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Brathap&repo=Jarvis_AI&theme=tokyonight&hide_border=true&title_color=FF0044&icon_color=00F0FF" alt="Jarvis AI" />
 </a>
 
 <br>
@@ -211,7 +211,7 @@
 **Spider-Shards Cyber Wayland Desktop Environment**
 
 <a href="https://github.com/Brathap/Arch-Hyprland-setup">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Brathap&repo=Arch-Hyprland-setup&theme=tokyonight&hide_border=true&title_color=00F0FF&icon_color=FF003C" alt="Hyprland" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Brathap&repo=Arch-Hyprland-setup&theme=tokyonight&hide_border=true&title_color=00F0FF&icon_color=FF0044" alt="Hyprland" />
 </a>
 
 <br>
@@ -234,7 +234,7 @@
 **GPU-Accelerated Wayland-Native Desktop Client**
 
 <a href="https://github.com/Brathap/whatsapp-desktop">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Brathap&repo=whatsapp-desktop&theme=tokyonight&hide_border=true&title_color=FF003C&icon_color=00F0FF" alt="WhatsApp" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Brathap&repo=whatsapp-desktop&theme=tokyonight&hide_border=true&title_color=FF0044&icon_color=00F0FF" alt="WhatsApp" />
 </a>
 
 <br>
@@ -261,7 +261,7 @@
 **Edge Computer Vision & Wildlife Neural Detection**
 
 <a href="https://github.com/Brathap/wild-sight">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Brathap&repo=wild-sight&theme=tokyonight&hide_border=true&title_color=FF003C&icon_color=00F0FF" alt="Wild Sight" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Brathap&repo=wild-sight&theme=tokyonight&hide_border=true&title_color=FF0044&icon_color=00F0FF" alt="Wild Sight" />
 </a>
 
 <br>
@@ -283,7 +283,7 @@
 **Real-Time Reactive Flutter Messenger**
 
 <a href="https://github.com/Brathap/chat-app">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Brathap&repo=chat-app&theme=tokyonight&hide_border=true&title_color=00F0FF&icon_color=FF003C" alt="Chat App" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Brathap&repo=chat-app&theme=tokyonight&hide_border=true&title_color=00F0FF&icon_color=FF0044" alt="Chat App" />
 </a>
 
 <br>
@@ -309,12 +309,12 @@
 
 <div align="center">
 
-<img height="185" src="https://github-readme-stats.vercel.app/api?username=Brathap&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&theme=tokyonight&title_color=FF003C&icon_color=00F0FF&text_color=A9B1D6&bg_color=0D050B&custom_title=SUIT%20TELEMETRY"/>
+<img height="185" src="https://github-readme-stats.vercel.app/api?username=Brathap&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&theme=tokyonight&title_color=FF0044&icon_color=00F0FF&text_color=A9B1D6&bg_color=0D050B&custom_title=SUIT%20TELEMETRY"/>
 <img height="185" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Brathap&layout=compact&langs_count=8&hide_border=true&theme=tokyonight&title_color=00F0FF&text_color=A9B1D6&bg_color=050B14&custom_title=LANGUAGE%20ARSENAL"/>
 
 <br><br>
 
-<img src="https://streak-stats.demolab.com?user=Brathap&hide_border=true&background=0D050B&ring=FF003C&fire=FF003C&currStreakLabel=00F0FF&sideLabels=00F0FF&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=6B7280" alt="Streak" />
+<img src="https://streak-stats.demolab.com?user=Brathap&hide_border=true&background=0D050B&ring=FF0044&fire=FF0044&currStreakLabel=00F0FF&sideLabels=00F0FF&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=6B7280" alt="Streak" />
 
 </div>
 
@@ -401,7 +401,7 @@
 <br>
 
 <a href="mailto:brathaps12@gmail.com">
-  <img src="https://img.shields.io/badge/GMAIL-brathaps12%40gmail.com-FF003C?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0D050B" alt="Gmail" />
+  <img src="https://img.shields.io/badge/GMAIL-brathaps12%40gmail.com-FF0044?style=for-the-badge&logo=gmail&logoColor=white&labelColor=17040C" alt="Gmail" />
 </a>
 <a href="https://github.com/Brathap">
   <img src="https://img.shields.io/badge/GITHUB-@Brathap-00F0FF?style=for-the-badge&logo=github&logoColor=050B14&labelColor=050B14" alt="GitHub" />
@@ -409,7 +409,7 @@
 
 <br><br>
 
-### `WITH GREAT POWER COMES GREAT ARCHITECTURE`
-<sub>Weaving the next generation of autonomous systems.</sub>
+<!-- NATIVE VECTOR SPIDER-VERSE FOOTER -->
+<img src="./assets/footer.svg" width="100%" alt="Footer Web" />
 
 </div>
