@@ -1,0 +1,90 @@
+<svg width="900" height="135" viewBox="0 0 900 135" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <radialGradient id="hud-bg" cx="50%" cy="50%" r="50%">
+      <stop offset="0%" stop-color="#14020C" />
+      <stop offset="70%" stop-color="#08010C" />
+      <stop offset="100%" stop-color="#020005" />
+    </radialGradient>
+    <filter id="hud-glow" x="-10%" y="-10%" width="120%" height="120%">
+      <feDropShadow dx="0" dy="0" stdDeviation="3.5" flood-color="#FF0044" flood-opacity="0.4" />
+    </filter>
+    <filter id="cyan-glow" x="-10%" y="-10%" width="120%" height="120%">
+      <feDropShadow dx="0" dy="0" stdDeviation="2.5" flood-color="#00F0FF" flood-opacity="0.6" />
+    </filter>
+  </defs>
+
+  <!-- HUD Outer Frame -->
+  <rect x="2" y="2" width="896" height="131" rx="12" fill="url(#hud-bg)" stroke="#FF0044" stroke-width="1.6" filter="url(#hud-glow)" />
+
+  <!-- Spider Web Corner Strands -->
+  <g stroke="#00F0FF" stroke-width="1" stroke-opacity="0.35" fill="none">
+    <line x1="6" y1="25" x2="35" y2="6" />
+    <line x1="6" y1="45" x2="65" y2="6" />
+    <path d="M 18 12 Q 28 28 12 18" />
+    <line x1="894" y1="25" x2="865" y2="6" />
+    <line x1="894" y1="45" x2="835" y2="6" />
+    <path d="M 882 12 Q 872 28 888 18" />
+  </g>
+
+  <!-- ================= MODULE 1: SPIDER-SENSE ================= -->
+  <g transform="translate(30, 22)">
+    <!-- Radar Circle -->
+    <circle cx="42" cy="45" r="36" fill="#0A0108" stroke="#FF0044" stroke-width="1.4" />
+    <circle cx="42" cy="45" r="24" fill="none" stroke="#FF0044" stroke-width="0.8" stroke-dasharray="3 3" opacity="0.6" />
+    <circle cx="42" cy="45" r="12" fill="none" stroke="#00F0FF" stroke-width="0.8" opacity="0.5" />
+    <!-- Rotating Sweep Beam -->
+    <line x1="42" y1="45" x2="78" y2="45" stroke="#00F0FF" stroke-width="2" filter="url(#cyan-glow)">
+      <animateTransform attributeName="transform" type="rotate" from="0 42 45" to="360 42 45" dur="4s" repeatCount="indefinite" />
+    </line>
+    <!-- Radar blips -->
+    <circle cx="56" cy="32" r="2.5" fill="#FF0044">
+      <animate attributeName="opacity" values="1;0.2;1" dur="1.5s" repeatCount="indefinite" />
+    </circle>
+    <circle cx="30" cy="58" r="2" fill="#00FFA3" />
+    <!-- Module Text -->
+    <text x="94" y="32" font-family="'JetBrains Mono', monospace" font-size="10" font-weight="800" fill="#FF0044" letter-spacing="1.5">● SPIDER-SENSE</text>
+    <text x="94" y="52" font-family="'Segoe UI', sans-serif" font-size="16" font-weight="900" fill="#FFFFFF">ACTIVE</text>
+    <text x="94" y="68" font-family="'JetBrains Mono', monospace" font-size="9" font-weight="600" fill="#00FFA3">Latency: 0.12ms // 360°</text>
+  </g>
+
+  <!-- Divider 1 -->
+  <line x1="260" y1="20" x2="260" y2="115" stroke="#FF0044" stroke-width="1" stroke-opacity="0.3" stroke-dasharray="3 3" />
+
+  <!-- ================= MODULE 2: WEB-SHOOTER PRESSURE ================= -->
+  <g transform="translate(285, 22)">
+    <text x="0" y="16" font-family="'JetBrains Mono', monospace" font-size="10" font-weight="800" fill="#00F0FF" letter-spacing="1.5">● FLUID PRESSURE</text>
+    <text x="0" y="42" font-family="'Segoe UI', sans-serif" font-size="22" font-weight="950" fill="#FFFFFF">98.4<tspan font-size="12" fill="#00F0FF"> PSI</tspan></text>
+    <!-- Progress Bar -->
+    <rect x="0" y="55" width="160" height="9" rx="4.5" fill="#14020C" stroke="#00F0FF" stroke-width="1" stroke-opacity="0.4" />
+    <rect x="2" y="57" width="154" height="5" rx="2.5" fill="#00F0FF" filter="url(#cyan-glow)">
+      <animate attributeName="width" values="154;142;154" dur="2.5s" repeatCount="indefinite" />
+    </rect>
+    <text x="0" y="78" font-family="'JetBrains Mono', monospace" font-size="9" font-weight="600" fill="#A9B1D6">CARTRIDGE: 03/04 LOADED</text>
+  </g>
+
+  <!-- Divider 2 -->
+  <line x1="475" y1="20" x2="475" y2="115" stroke="#FF0044" stroke-width="1" stroke-opacity="0.3" stroke-dasharray="3 3" />
+
+  <!-- ================= MODULE 3: NEURAL SYNC (WAYLAND) ================= -->
+  <g transform="translate(500, 22)">
+    <text x="0" y="16" font-family="'JetBrains Mono', monospace" font-size="10" font-weight="800" fill="#00FFA3" letter-spacing="1.5">● NEURAL SYNC</text>
+    <text x="0" y="42" font-family="'Segoe UI', sans-serif" font-size="22" font-weight="950" fill="#FFFFFF">100.0<tspan font-size="12" fill="#00FFA3"> %</tspan></text>
+    <!-- Progress Bar -->
+    <rect x="0" y="55" width="160" height="9" rx="4.5" fill="#14020C" stroke="#00FFA3" stroke-width="1" stroke-opacity="0.4" />
+    <rect x="2" y="57" width="156" height="5" rx="2.5" fill="#00FFA3">
+      <animate attributeName="opacity" values="1;0.7;1" dur="1.8s" repeatCount="indefinite" />
+    </rect>
+    <text x="0" y="78" font-family="'JetBrains Mono', monospace" font-size="9" font-weight="600" fill="#A9B1D6">HYPRLAND // ZERO-LATENCY</text>
+  </g>
+
+  <!-- Divider 3 -->
+  <line x1="690" y1="20" x2="690" y2="115" stroke="#FF0044" stroke-width="1" stroke-opacity="0.3" stroke-dasharray="3 3" />
+
+  <!-- ================= MODULE 4: MULTIVERSE ANCHOR ================= -->
+  <g transform="translate(715, 22)">
+    <text x="0" y="16" font-family="'JetBrains Mono', monospace" font-size="10" font-weight="800" fill="#9D00FF" letter-spacing="1.5">● MULTIVERSE ANCHOR</text>
+    <text x="0" y="42" font-family="'Segoe UI', sans-serif" font-size="20" font-weight="950" fill="#FFFFFF">EARTH-616</text>
+    <text x="0" y="60" font-family="'JetBrains Mono', monospace" font-size="10" font-weight="700" fill="#00F0FF">TIMELINE: STABLE</text>
+    <text x="0" y="78" font-family="'JetBrains Mono', monospace" font-size="9" font-weight="600" fill="#A9B1D6">CANON EVENT: PASSING</text>
+  </g>
+</svg>

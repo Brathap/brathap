@@ -22,6 +22,13 @@
 
 <br>
 
+<!-- REAL-TIME SPIDER-SENSE TELEMETRY HUD -->
+<p align="center">
+  <img src="./assets/spider_hud.svg" width="100%" alt="Spider-Sense HUD Telemetry" />
+</p>
+
+<br>
+
 <!-- SUIT TELEMETRY STATUS CHIPS -->
 <p align="center">
   <img src="https://img.shields.io/badge/MISSION-SYSTEMS%20%26%20AI-FF0044?style=for-the-badge&logo=target&logoColor=white&labelColor=17040C" alt="Mission" />

@@ -1,0 +1,68 @@
+<svg width="900" height="210" viewBox="0 0 900 210" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <radialGradient id="arsenal-bg" cx="50%" cy="50%" r="50%">
+      <stop offset="0%" stop-color="#14020C" />
+      <stop offset="80%" stop-color="#08010C" />
+      <stop offset="100%" stop-color="#020005" />
+    </radialGradient>
+    <filter id="card-glow" x="-10%" y="-10%" width="120%" height="120%">
+      <feDropShadow dx="0" dy="0" stdDeviation="3" flood-color="#FF0044" flood-opacity="0.3" />
+    </filter>
+  </defs>
+
+  <!-- Outer Frame -->
+  <rect x="2" y="2" width="896" height="206" rx="12" fill="url(#arsenal-bg)" stroke="#FF0044" stroke-width="1.6" filter="url(#card-glow)" />
+
+  <!-- Background Web Watermark -->
+  <g stroke="#FF0044" stroke-width="0.8" opacity="0.16" fill="none">
+    <line x1="450" y1="105" x2="0" y2="0" />
+    <line x1="450" y1="105" x2="900" y2="0" />
+    <line x1="450" y1="105" x2="0" y2="210" />
+    <line x1="450" y1="105" x2="900" y2="210" />
+    <polygon points="450,45 520,105 450,165 380,105" />
+    <polygon points="450,15 580,105 450,195 320,105" />
+  </g>
+
+  <!-- Header Banner -->
+  <text x="24" y="32" font-family="'JetBrains Mono', monospace" font-size="12" font-weight="900" fill="#FF0044" letter-spacing="2">🕷️ SPIDER-ARSENAL // COMBAT WEAPONRY MATRIX</text>
+
+  <!-- ================= CARD 1: CORE LANGUAGES ================= -->
+  <g transform="translate(24, 48)">
+    <rect width="200" height="142" rx="8" fill="#0E0312" stroke="#FF0044" stroke-width="1.2" stroke-opacity="0.7" />
+    <text x="14" y="24" font-family="'JetBrains Mono', monospace" font-size="11" font-weight="800" fill="#FF0044">01 // LANGUAGES</text>
+    <text x="14" y="50" font-family="'Segoe UI', sans-serif" font-size="13" font-weight="700" fill="#FFFFFF">● Python (Core API)</text>
+    <text x="14" y="72" font-family="'Segoe UI', sans-serif" font-size="13" font-weight="700" fill="#FFFFFF">● C / C++ (Internals)</text>
+    <text x="14" y="94" font-family="'Segoe UI', sans-serif" font-size="13" font-weight="700" fill="#FFFFFF">● Bash / Shell (POSIX)</text>
+    <text x="14" y="116" font-family="'Segoe UI', sans-serif" font-size="13" font-weight="700" fill="#FFFFFF">● Dart / JavaScript</text>
+  </g>
+
+  <!-- ================= CARD 2: KERNEL & WAYLAND ================= -->
+  <g transform="translate(242, 48)">
+    <rect width="200" height="142" rx="8" fill="#050B14" stroke="#00F0FF" stroke-width="1.2" stroke-opacity="0.7" />
+    <text x="14" y="24" font-family="'JetBrains Mono', monospace" font-size="11" font-weight="800" fill="#00F0FF">02 // OS &amp; PROTOCOLS</text>
+    <text x="14" y="50" font-family="'Segoe UI', sans-serif" font-size="13" font-weight="700" fill="#FFFFFF">● Arch Linux</text>
+    <text x="14" y="72" font-family="'Segoe UI', sans-serif" font-size="13" font-weight="700" fill="#FFFFFF">● Hyprland (Wayland)</text>
+    <text x="14" y="94" font-family="'Segoe UI', sans-serif" font-size="13" font-weight="700" fill="#FFFFFF">● Linux Kernel Internals</text>
+    <text x="14" y="116" font-family="'Segoe UI', sans-serif" font-size="13" font-weight="700" fill="#FFFFFF">● Win32 / macOS Drivers</text>
+  </g>
+
+  <!-- ================= CARD 3: AUTONOMOUS AI & AGENTS ================= -->
+  <g transform="translate(460, 48)">
+    <rect width="200" height="142" rx="8" fill="#05140D" stroke="#00FFA3" stroke-width="1.2" stroke-opacity="0.7" />
+    <text x="14" y="24" font-family="'JetBrains Mono', monospace" font-size="11" font-weight="800" fill="#00FFA3">03 // AI &amp; AUTONOMY</text>
+    <text x="14" y="50" font-family="'Segoe UI', sans-serif" font-size="13" font-weight="700" fill="#FFFFFF">● Autonomous Agents</text>
+    <text x="14" y="72" font-family="'Segoe UI', sans-serif" font-size="13" font-weight="700" fill="#FFFFFF">● Computer Vision / YOLO</text>
+    <text x="14" y="94" font-family="'Segoe UI', sans-serif" font-size="13" font-weight="700" fill="#FFFFFF">● LLM Orchestration</text>
+    <text x="14" y="116" font-family="'Segoe UI', sans-serif" font-size="13" font-weight="700" fill="#FFFFFF">● Multimodal Voice HUD</text>
+  </g>
+
+  <!-- ================= CARD 4: SYSTEMS & TOOLING ================= -->
+  <g transform="translate(678, 48)">
+    <rect width="200" height="142" rx="8" fill="#0E0518" stroke="#9D00FF" stroke-width="1.2" stroke-opacity="0.7" />
+    <text x="14" y="24" font-family="'JetBrains Mono', monospace" font-size="11" font-weight="800" fill="#9D00FF">04 // SYSTEMS WEAPONRY</text>
+    <text x="14" y="50" font-family="'Segoe UI', sans-serif" font-size="13" font-weight="700" fill="#FFFFFF">● Neovim (Lua IDE)</text>
+    <text x="14" y="72" font-family="'Segoe UI', sans-serif" font-size="13" font-weight="700" fill="#FFFFFF">● Git &amp; CI/CD Actions</text>
+    <text x="14" y="94" font-family="'Segoe UI', sans-serif" font-size="13" font-weight="700" fill="#FFFFFF">● Zero-Dependency Libs</text>
+    <text x="14" y="116" font-family="'Segoe UI', sans-serif" font-size="13" font-weight="700" fill="#FFFFFF">● Docker / Virtualization</text>
+  </g>
+</svg>
