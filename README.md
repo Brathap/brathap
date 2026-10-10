@@ -1,5 +1,12 @@
 <div align="center">
 
+<!-- THREE.JS HOLOGRAPHIC SPIDER-MAN HERO CENTERPIECE -->
+<a href="https://github.com/Brathap">
+  <img src="./assets/spiderman_avatar.svg" width="220" height="220" alt="Holographic Spider-Man Avatar" />
+</a>
+
+<br><br>
+
 <!-- SPIDER-VERSE VECTOR HERO BANNER -->
 <img src="./assets/header.svg" width="100%" alt="Brathap S - Systems Architect & AI Engineer" />
 
